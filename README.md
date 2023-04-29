@@ -9,6 +9,8 @@ The FRONT-OFFICE is for invoicing while the BACK-OFFICE is for company managemen
 Note that this is not a complete software, and so, there are many bugs in both programs and unfinished features that we planned.
 If you are using our software for your needs, please credit us or change the company logo/name.
 
+!!THE WHOLE PROJECT WAS MADE IN PORTUGUESE! DON'T ASK ME TO TRANSLATE OR MODIFY IT!!
+
 Made by:
 https://www.instagram.com/75andre40/
 https://www.instagram.com/edu_c013/
@@ -17,3 +19,16 @@ Feel free to donate with this link! In trade, I give you a 🍪 :)
 https://www.paypal.com/donate/buttons/manage/HJ5QZ5JNFGKCS
 
 ## How to use
+Both programs are made in Visual Studio, VB.NET with Infragistics and DevExpress extensions.
+SQL Part is made in Microsoft SQL Server.
+
+1- Execute the SQL file onto your SQL Server. (It can be localhost or network)
+2- Open both programs in VS, right click on the project name (PAP) and go to properties.
+3- Locate the "Settings" tab, and change the connection string according to your sql server.
+(I left the default settings for the ones who just installed the sql server for dev purposes.)
+
+(For those who want to config their images folders, proceed with the following steps)
+4- Inside the project in VS, go to the folder named "ClassesSQL" and edit the file "ClsUtils".
+5- Edit the public properties according to your needs.
+
+I will not update it since it was made for my school final project.

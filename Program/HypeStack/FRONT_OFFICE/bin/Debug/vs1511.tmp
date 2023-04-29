@@ -1,0 +1,1211 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+FCT_2021
+</name>
+</assembly>
+<members>
+<member name="T:FCT_2021.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:FCT_2021.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:FCT_2021.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:FCT_2021.My.Resources.Resources.ArrowDownIcon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCT_2021.My.Resources.Resources.BackButton">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCT_2021.My.Resources.Resources.Background">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCT_2021.My.Resources.Resources.BackgroundArtigo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCT_2021.My.Resources.Resources.ButtonSubmit">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCT_2021.My.Resources.Resources.ButtonSubmitClick">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCT_2021.My.Resources.Resources.ButtonSubmitHover">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCT_2021.My.Resources.Resources.Close">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCT_2021.My.Resources.Resources.LineIcon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCT_2021.My.Resources.Resources.Loading">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCT_2021.My.Resources.Resources.LogoBlack">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCT_2021.My.Resources.Resources.LogoCircle">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCT_2021.My.Resources.Resources.LogoCircleIco">
+<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member>
+<member name="P:FCT_2021.My.Resources.Resources.LogoRoundedRect">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCT_2021.My.Resources.Resources.LogoWhite">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCT_2021.My.Resources.Resources.Maximize">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCT_2021.My.Resources.Resources.Minimize">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCT_2021.My.Resources.Resources.NoImage">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCT_2021.My.Resources.Resources.PanelBackground">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCT_2021.My.Resources.Resources.PlusIcon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCT_2021.My.Resources.Resources.ProductDescription">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCT_2021.My.Resources.Resources.RemoverFiltro">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCT_2021.My.Resources.Resources.TextBox_Search">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCT_2021.My.Resources.Resources.TextBoxBackG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCT_2021.My.Resources.Resources.TextBoxBackG2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCT_2021.My.Resources.Resources.TextBoxBG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCT_2021.My.Resources.Resources.TextBoxBGSelected">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCT_2021.My.Resources.Resources.TxtEmailBox">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCT_2021.My.Resources.Resources.TxtNIF_TELEFONE">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCT_2021.My.Resources.Resources.UC_Button">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:FCT_2021.ClsArtigos">
+ <summary>
+      Classe ClsArtigos Classe da Tabela Artigos
+      Gerado em 29/11/2022 16:04:40
+ </summary>
+ <remarks>
+      (c) ETLA - PM-2022
+ </remarks>
+</member>
+<member name="M:FCT_2021.ClsArtigos.GetArtigos">
+ <summary>
+      Function GetArtigos() Método para devolver a Lista de Artigos
+      Gerado em 29/11/2022 16:04:40
+ </summary>
+ <returns>
+      mListaArtigos
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2022
+ </remarks>
+</member>
+<member name="M:FCT_2021.ClsArtigos.FiltrarArtigos(FCT_2021.ClsArtigos)">
+ <summary>
+      Function FiltrarArtigos Método para Filtrar os campos da lista de Artigos
+      Gerado em 29/11/2022 16:04:40
+ </summary>
+ <returns>
+      mListaArtigos
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2022
+ </remarks>
+</member>
+<member name="M:FCT_2021.ClsArtigos.GetArtigosByCod(System.String)">
+ <summary>
+      Function GetArtigosByCod(ByVal pCod_Artigo As String) Método para decolver uma Classe de Artigos
+      Gerado em 29/11/2022 16:04:40
+ </summary>
+ <returns>
+      mClsArtigos
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2022
+ </remarks>
+</member>
+<member name="M:FCT_2021.ClsArtigos.ModificaArtigos(FCT_2021.ClsArtigos)">
+ <summary>
+      Function ModificaArtigos(ByVal pClsArtigos As ClsArtigos) Método para Modificar a TABELA Artigos
+      Gerado em 29/11/2022 16:04:40
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2022
+ </remarks>
+</member>
+<member name="M:FCT_2021.ClsArtigos.GravaArtigos(FCT_2021.ClsArtigos)">
+ <summary>
+      Function GravaArtigos(ByVal pNovoArtigos As ClsArtigos) Método para Gravar a TABELA Artigos
+      Gerado em 29/11/2022 16:04:40
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2022
+ </remarks>
+</member>
+<member name="M:FCT_2021.ClsArtigos.ApagaArtigo(System.String)">
+ <summary>
+      Function ApagaArtigos(ByVal pCod_Artigo As String) Método para Apagar um Registo da Tabela Artigos
+      Gerado em 29/11/2022 16:04:40
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2022
+ </remarks>
+</member>
+<member name="T:FCT_2021.ArtigosComparer">
+ <summary>
+      Classe ArtigosComparer 
+      Gerado em 29/11/2022 16:04:40
+ </summary>
+ <remarks>
+      (c) ETLA - PM-2022
+ </remarks>
+</member>
+<member name="T:FCT_2021.ClsCategorias">
+ <summary>
+      Classe ClsCategorias Classe da Tabela Categorias
+      Gerado em 29/11/2022 16:04:40
+ </summary>
+ <remarks>
+      (c) ETLA - PM-2022
+ </remarks>
+</member>
+<member name="M:FCT_2021.ClsCategorias.GetCategorias">
+ <summary>
+      Function GetCategorias() Método para devolver a Lista de Categorias
+      Gerado em 29/11/2022 16:04:40
+ </summary>
+ <returns>
+      mListaCategorias
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2022
+ </remarks>
+</member>
+<member name="M:FCT_2021.ClsCategorias.FiltrarCategorias(FCT_2021.ClsCategorias)">
+ <summary>
+      Function FiltrarCategorias Método para Filtrar os campos da lista de Categorias
+      Gerado em 29/11/2022 16:04:40
+ </summary>
+ <returns>
+      mListaCategorias
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2022
+ </remarks>
+</member>
+<member name="M:FCT_2021.ClsCategorias.GetCategoriasByCod(System.String)">
+ <summary>
+      Function GetCategoriasByCod(ByVal pCod_Categoria As String) Método para decolver uma Classe de Categorias
+      Gerado em 29/11/2022 16:04:40
+ </summary>
+ <returns>
+      mClsCategorias
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2022
+ </remarks>
+</member>
+<member name="M:FCT_2021.ClsCategorias.ModificaCategorias(FCT_2021.ClsCategorias)">
+ <summary>
+      Function ModificaCategorias(ByVal pClsCategorias As ClsCategorias) Método para Modificar a TABELA Categorias
+      Gerado em 29/11/2022 16:04:40
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2022
+ </remarks>
+</member>
+<member name="M:FCT_2021.ClsCategorias.GravaCategorias(FCT_2021.ClsCategorias)">
+ <summary>
+      Function GravaCategorias(ByVal pNovoCategorias As ClsCategorias) Método para Gravar a TABELA Categorias
+      Gerado em 29/11/2022 16:04:40
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2022
+ </remarks>
+</member>
+<member name="M:FCT_2021.ClsCategorias.ApagaCategorias(System.String)">
+ <summary>
+      Function ApagaCategorias(ByVal pCod_Categoria As String) Método para Apagar um Registo da Tabela Categorias
+      Gerado em 29/11/2022 16:04:40
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2022
+ </remarks>
+</member>
+<member name="T:FCT_2021.CategoriasComparer">
+ <summary>
+      Classe CategoriasComparer 
+      Gerado em 29/11/2022 16:04:40
+ </summary>
+ <remarks>
+      (c) ETLA - PM-2022
+ </remarks>
+</member>
+<member name="T:FCT_2021.ClsDoc">
+ <summary>
+      Classe ClsDoc Classe da Tabela Doc
+      Gerado em 29/11/2022 16:04:41
+ </summary>
+ <remarks>
+      (c) ETLA - PM-2022
+ </remarks>
+</member>
+<member name="M:FCT_2021.ClsDoc.GetDoc">
+ <summary>
+      Function GetDoc() Método para devolver a Lista de Doc
+      Gerado em 29/11/2022 16:04:41
+ </summary>
+ <returns>
+      mListaDoc
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2022
+ </remarks>
+</member>
+<member name="M:FCT_2021.ClsDoc.GetDocByCod(System.String)">
+ <summary>
+      Function GetDocByCod(ByVal pNum_Doc As String) Método para decolver uma Classe de Doc
+      Gerado em 29/11/2022 16:04:41
+ </summary>
+ <returns>
+      mClsDoc
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2022
+ </remarks>
+</member>
+<member name="M:FCT_2021.ClsDoc.ModificaDoc(FCT_2021.ClsDoc)">
+ <summary>
+      Function ModificaDoc(ByVal pClsDoc As ClsDoc) Método para Modificar a TABELA Doc
+      Gerado em 29/11/2022 16:04:41
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2022
+ </remarks>
+</member>
+<member name="M:FCT_2021.ClsDoc.GravaDoc(FCT_2021.ClsDoc)">
+ <summary>
+      Function GravaDoc(ByVal pNovoDoc As ClsDoc) Método para Gravar a TABELA Doc
+      Gerado em 29/11/2022 16:04:41
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2022
+ </remarks>
+</member>
+<member name="M:FCT_2021.ClsDoc.ApagaDoc(System.String)">
+ <summary>
+      Function ApagaDoc(ByVal pNum_Doc As String) Método para Apagar um Registo da Tabela Doc
+      Gerado em 29/11/2022 16:04:41
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2022
+ </remarks>
+</member>
+<member name="T:FCT_2021.ClsEmpresas">
+ <summary>
+      Classe ClsEmpresas Classe da Tabela Empresas
+      Gerado em 29/11/2022 16:04:41
+ </summary>
+ <remarks>
+      (c) ETLA - PM-2022
+ </remarks>
+</member>
+<member name="M:FCT_2021.ClsEmpresas.GetContador(FCT_2021.enCont)">
+ <summary>
+      Function GetContador (ByVal pEnum as Encont) - Método para devolver o contador específico guardado na Tabela Empresas
+      Gerado em 29/11/2022 16:04:41
+ </summary>
+ <returns>
+      Contador guardado + 1
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2022
+ </remarks>
+</member>
+<member name="M:FCT_2021.ClsEmpresas.GravaContador(FCT_2021.enCont)">
+ <summary>
+      Function GravaContador (ByVal pEnum as Encont) - Método para Gravar o Contador específico na Tabela Empresas
+      Gerado em 29/11/2022 16:04:41
+ </summary>
+ <returns>
+      True ou False
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2022
+ </remarks>
+</member>
+<member name="M:FCT_2021.ClsEmpresas.GetEmpresas">
+ <summary>
+      Function GetEmpresas() Método para devolver a Lista de Empresas
+      Gerado em 29/11/2022 16:04:41
+ </summary>
+ <returns>
+      mListaEmpresas
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2022
+ </remarks>
+</member>
+<member name="M:FCT_2021.ClsEmpresas.FiltrarEmpresas(FCT_2021.ClsEmpresas)">
+ <summary>
+      Function FiltrarEmpresas Método para Filtrar os campos da lista de Empresas
+      Gerado em 29/11/2022 16:04:41
+ </summary>
+ <returns>
+      mListaEmpresas
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2022
+ </remarks>
+</member>
+<member name="M:FCT_2021.ClsEmpresas.GetEmpresasByCod(System.String)">
+ <summary>
+      Function GetEmpresasByCod(ByVal pCod_Empresa As String) Método para decolver uma Classe de Empresas
+      Gerado em 29/11/2022 16:04:41
+ </summary>
+ <returns>
+      mClsEmpresas
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2022
+ </remarks>
+</member>
+<member name="M:FCT_2021.ClsEmpresas.ModificaEmpresas(FCT_2021.ClsEmpresas)">
+ <summary>
+      Function ModificaEmpresas(ByVal pClsEmpresas As ClsEmpresas) Método para Modificar a TABELA Empresas
+      Gerado em 29/11/2022 16:04:41
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2022
+ </remarks>
+</member>
+<member name="M:FCT_2021.ClsEmpresas.GravaEmpresas(FCT_2021.ClsEmpresas)">
+ <summary>
+      Function GravaEmpresas(ByVal pNovoEmpresas As ClsEmpresas) Método para Gravar a TABELA Empresas
+      Gerado em 29/11/2022 16:04:41
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2022
+ </remarks>
+</member>
+<member name="M:FCT_2021.ClsEmpresas.ApagaEmpresas(System.String)">
+ <summary>
+      Function ApagaEmpresas(ByVal pCod_Empresa As String) Método para Apagar um Registo da Tabela Empresas
+      Gerado em 29/11/2022 16:04:41
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2022
+ </remarks>
+</member>
+<member name="T:FCT_2021.EmpresasComparer">
+ <summary>
+      Classe EmpresasComparer 
+      Gerado em 29/11/2022 16:04:41
+ </summary>
+ <remarks>
+      (c) ETLA - PM-2022
+ </remarks>
+</member>
+<member name="T:FCT_2021.ClsEntidades">
+ <summary>
+      Classe ClsEntidades Classe da Tabela Entidades
+      Gerado em 29/11/2022 16:04:41
+ </summary>
+ <remarks>
+      (c) ETLA - PM-2022
+ </remarks>
+</member>
+<member name="M:FCT_2021.ClsEntidades.GetEntidades">
+ <summary>
+      Function GetEntidades() Método para devolver a Lista de Entidades
+      Gerado em 29/11/2022 16:04:41
+ </summary>
+ <returns>
+      mListaEntidades
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2022
+ </remarks>
+</member>
+<member name="M:FCT_2021.ClsEntidades.GetEntidadesByCod(System.Int32)">
+ <summary>
+      Function GetEntidadesByCod(ByVal pCod_Entidade As Integer) Método para decolver uma Classe de Entidades
+      Gerado em 29/11/2022 16:04:41
+ </summary>
+ <returns>
+      mClsEntidades
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2022
+ </remarks>
+</member>
+<member name="M:FCT_2021.ClsEntidades.ModificaEntidades(FCT_2021.ClsEntidades)">
+ <summary>
+      Function ModificaEntidades(ByVal pClsEntidades As ClsEntidades) Método para Modificar a TABELA Entidades
+      Gerado em 29/11/2022 16:04:41
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2022
+ </remarks>
+</member>
+<member name="M:FCT_2021.ClsEntidades.GravaEntidades(FCT_2021.ClsEntidades)">
+ <summary>
+      Function GravaEntidades(ByVal pNovoEntidades As ClsEntidades) Método para Gravar a TABELA Entidades
+      Gerado em 29/11/2022 16:04:41
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2022
+ </remarks>
+</member>
+<member name="M:FCT_2021.ClsEntidades.ApagaEntidades(System.Int32)">
+ <summary>
+      Function ApagaEntidades(ByVal pCod_Entidade As Integer) Método para Apagar um Registo da Tabela Entidades
+      Gerado em 29/11/2022 16:04:41
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2022
+ </remarks>
+</member>
+<member name="T:FCT_2021.EntidadesComparer">
+ <summary>
+      Classe EntidadesComparer 
+      Gerado em 29/11/2022 16:04:41
+ </summary>
+ <remarks>
+      (c) ETLA - PM-2022
+ </remarks>
+</member>
+<member name="T:FCT_2021.ClsIVA">
+ <summary>
+      Classe ClsIVA Classe da Tabela IVA
+      Gerado em 29/11/2022 16:04:41
+ </summary>
+ <remarks>
+      (c) ETLA - PM-2022
+ </remarks>
+</member>
+<member name="M:FCT_2021.ClsIVA.GetIVA">
+ <summary>
+      Function GetIVA() Método para devolver a Lista de IVA
+      Gerado em 29/11/2022 16:04:41
+ </summary>
+ <returns>
+      mListaIVA
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2022
+ </remarks>
+</member>
+<member name="M:FCT_2021.ClsIVA.FiltrarIVA(FCT_2021.ClsIVA)">
+ <summary>
+      Function FiltrarIVA Método para Filtrar os campos da lista de IVA
+      Gerado em 29/11/2022 16:04:41
+ </summary>
+ <returns>
+      mListaIVA
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2022
+ </remarks>
+</member>
+<member name="M:FCT_2021.ClsIVA.GetIVAByCod(System.String)">
+ <summary>
+      Function GetIVAByCod(ByVal pCod_IVA As String) Método para decolver uma Classe de IVA
+      Gerado em 29/11/2022 16:04:41
+ </summary>
+ <returns>
+      mClsIVA
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2022
+ </remarks>
+</member>
+<member name="M:FCT_2021.ClsIVA.ModificaIVA(FCT_2021.ClsIVA)">
+ <summary>
+      Function ModificaIVA(ByVal pClsIVA As ClsIVA) Método para Modificar a TABELA IVA
+      Gerado em 29/11/2022 16:04:41
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2022
+ </remarks>
+</member>
+<member name="M:FCT_2021.ClsIVA.GravaIVA(FCT_2021.ClsIVA)">
+ <summary>
+      Function GravaIVA(ByVal pNovoIVA As ClsIVA) Método para Gravar a TABELA IVA
+      Gerado em 29/11/2022 16:04:41
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2022
+ </remarks>
+</member>
+<member name="M:FCT_2021.ClsIVA.ApagaIVA(System.String)">
+ <summary>
+      Function ApagaIVA(ByVal pCod_IVA As String) Método para Apagar um Registo da Tabela IVA
+      Gerado em 29/11/2022 16:04:41
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2022
+ </remarks>
+</member>
+<member name="T:FCT_2021.IVAComparer">
+ <summary>
+      Classe IVAComparer 
+      Gerado em 29/11/2022 16:04:41
+ </summary>
+ <remarks>
+      (c) ETLA - PM-2022
+ </remarks>
+</member>
+<member name="T:FCT_2021.ClsLinhas">
+ <summary>
+      Classe ClsLinhas Classe da Tabela Linhas
+      Gerado em 29/11/2022 16:04:41
+ </summary>
+ <remarks>
+      (c) ETLA - PM-2022
+ </remarks>
+</member>
+<member name="M:FCT_2021.ClsLinhas.GetLinhas(System.String)">
+ <summary>
+      Function GetLinhas() Método para devolver a Lista de Linhas
+      Gerado em 29/11/2022 16:04:41
+ </summary>
+ <returns>
+      mListaLinhas
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2022
+ </remarks>
+</member>
+<member name="M:FCT_2021.ClsLinhas.GetLinhasByCod(System.String)">
+ <summary>
+      Function GetLinhasByCod(ByVal pNum_Doc As String) Método para decolver uma Classe de Linhas
+      Gerado em 29/11/2022 16:04:41
+ </summary>
+ <returns>
+      mClsLinhas
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2022
+ </remarks>
+</member>
+<member name="M:FCT_2021.ClsLinhas.ModificaLinhas(FCT_2021.ClsLinhas)">
+ <summary>
+      Function ModificaLinhas(ByVal pClsLinhas As ClsLinhas) Método para Modificar a TABELA Linhas
+      Gerado em 29/11/2022 16:04:41
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2022
+ </remarks>
+</member>
+<member name="M:FCT_2021.ClsLinhas.GravaLinhas(FCT_2021.ClsLinhas)">
+ <summary>
+      Function GravaLinhas(ByVal pNovoLinhas As ClsLinhas) Método para Gravar a TABELA Linhas
+      Gerado em 29/11/2022 16:04:41
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2022
+ </remarks>
+</member>
+<member name="M:FCT_2021.ClsLinhas.ApagaLinhas(System.String)">
+ <summary>
+      Function ApagaLinhas(ByVal pNum_Doc As String) Método para Apagar um Registo da Tabela Linhas
+      Gerado em 29/11/2022 16:04:41
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2022
+ </remarks>
+</member>
+<member name="T:FCT_2021.ClsPaises">
+ <summary>
+      Classe ClsPaises Classe da Tabela Paises
+      Gerado em 29/11/2022 16:04:41
+ </summary>
+ <remarks>
+      (c) ETLA - PM-2022
+ </remarks>
+</member>
+<member name="M:FCT_2021.ClsPaises.GetPaises">
+ <summary>
+      Function GetPaises() Método para devolver a Lista de Paises
+      Gerado em 29/11/2022 16:04:41
+ </summary>
+ <returns>
+      mListaPaises
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2022
+ </remarks>
+</member>
+<member name="M:FCT_2021.ClsPaises.FiltrarPaises(FCT_2021.ClsPaises)">
+ <summary>
+      Function FiltrarPaises Método para Filtrar os campos da lista de Paises
+      Gerado em 29/11/2022 16:04:41
+ </summary>
+ <returns>
+      mListaPaises
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2022
+ </remarks>
+</member>
+<member name="M:FCT_2021.ClsPaises.GetPaisesByCod(System.String)">
+ <summary>
+      Function GetPaisesByCod(ByVal pCod_Pais As String) Método para decolver uma Classe de Paises
+      Gerado em 29/11/2022 16:04:41
+ </summary>
+ <returns>
+      mClsPaises
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2022
+ </remarks>
+</member>
+<member name="M:FCT_2021.ClsPaises.ModificaPaises(FCT_2021.ClsPaises)">
+ <summary>
+      Function ModificaPaises(ByVal pClsPaises As ClsPaises) Método para Modificar a TABELA Paises
+      Gerado em 29/11/2022 16:04:41
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2022
+ </remarks>
+</member>
+<member name="M:FCT_2021.ClsPaises.GravaPaises(FCT_2021.ClsPaises)">
+ <summary>
+      Function GravaPaises(ByVal pNovoPaises As ClsPaises) Método para Gravar a TABELA Paises
+      Gerado em 29/11/2022 16:04:41
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2022
+ </remarks>
+</member>
+<member name="M:FCT_2021.ClsPaises.ApagaPaises(System.String)">
+ <summary>
+      Function ApagaPaises(ByVal pCod_Pais As String) Método para Apagar um Registo da Tabela Paises
+      Gerado em 29/11/2022 16:04:41
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2022
+ </remarks>
+</member>
+<member name="T:FCT_2021.PaisesComparer">
+ <summary>
+      Classe PaisesComparer 
+      Gerado em 29/11/2022 16:04:41
+ </summary>
+ <remarks>
+      (c) ETLA - PM-2022
+ </remarks>
+</member>
+<member name="T:FCT_2021.ClsSeries">
+ <summary>
+      Classe ClsSeries Classe da Tabela Series
+      Gerado em 29/11/2022 16:04:41
+ </summary>
+ <remarks>
+      (c) ETLA - PM-2022
+ </remarks>
+</member>
+<member name="M:FCT_2021.ClsSeries.GetSeries">
+ <summary>
+      Function GetSeries() Método para devolver a Lista de Series
+      Gerado em 29/11/2022 16:04:41
+ </summary>
+ <returns>
+      mListaSeries
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2022
+ </remarks>
+</member>
+<member name="M:FCT_2021.ClsSeries.FiltrarSeries(FCT_2021.ClsSeries)">
+ <summary>
+      Function FiltrarSeries Método para Filtrar os campos da lista de Series
+      Gerado em 29/11/2022 16:04:41
+ </summary>
+ <returns>
+      mListaSeries
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2022
+ </remarks>
+</member>
+<member name="M:FCT_2021.ClsSeries.GetSeriesByCod(System.String)">
+ <summary>
+      Function GetSeriesByCod(ByVal pCod_Serie As String) Método para decolver uma Classe de Series
+      Gerado em 29/11/2022 16:04:41
+ </summary>
+ <returns>
+      mClsSeries
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2022
+ </remarks>
+</member>
+<member name="M:FCT_2021.ClsSeries.ModificaSeries(FCT_2021.ClsSeries)">
+ <summary>
+      Function ModificaSeries(ByVal pClsSeries As ClsSeries) Método para Modificar a TABELA Series
+      Gerado em 29/11/2022 16:04:41
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2022
+ </remarks>
+</member>
+<member name="M:FCT_2021.ClsSeries.GravaSeries(FCT_2021.ClsSeries)">
+ <summary>
+      Function GravaSeries(ByVal pNovoSeries As ClsSeries) Método para Gravar a TABELA Series
+      Gerado em 29/11/2022 16:04:41
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2022
+ </remarks>
+</member>
+<member name="M:FCT_2021.ClsSeries.ApagaSeries(System.String)">
+ <summary>
+      Function ApagaSeries(ByVal pCod_Serie As String) Método para Apagar um Registo da Tabela Series
+      Gerado em 29/11/2022 16:04:41
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2022
+ </remarks>
+</member>
+<member name="T:FCT_2021.SeriesComparer">
+ <summary>
+      Classe SeriesComparer 
+      Gerado em 29/11/2022 16:04:41
+ </summary>
+ <remarks>
+      (c) ETLA - PM-2022
+ </remarks>
+</member>
+<member name="T:FCT_2021.ClsSub_Categorias">
+ <summary>
+      Classe ClsSub_Categorias Classe da Tabela Sub_Categorias
+      Gerado em 29/11/2022 16:04:41
+ </summary>
+ <remarks>
+      (c) ETLA - PM-2022
+ </remarks>
+</member>
+<member name="M:FCT_2021.ClsSub_Categorias.GetSub_Categorias">
+ <summary>
+      Function GetSub_Categorias() Método para devolver a Lista de Sub_Categorias
+      Gerado em 29/11/2022 16:04:41
+ </summary>
+ <returns>
+      mListaSub_Categorias
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2022
+ </remarks>
+</member>
+<member name="M:FCT_2021.ClsSub_Categorias.FiltrarSub_Categorias(FCT_2021.ClsSub_Categorias)">
+ <summary>
+      Function FiltrarSub_Categorias Método para Filtrar os campos da lista de Sub_Categorias
+      Gerado em 29/11/2022 16:04:41
+ </summary>
+ <returns>
+      mListaSub_Categorias
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2022
+ </remarks>
+</member>
+<member name="M:FCT_2021.ClsSub_Categorias.GetSub_CategoriasByCod(System.String)">
+ <summary>
+      Function GetSub_CategoriasByCod(ByVal pCod_Sub_Categoria As String) Método para decolver uma Classe de Sub_Categorias
+      Gerado em 29/11/2022 16:04:41
+ </summary>
+ <returns>
+      mClsSub_Categorias
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2022
+ </remarks>
+</member>
+<member name="M:FCT_2021.ClsSub_Categorias.ModificaSub_Categorias(FCT_2021.ClsSub_Categorias)">
+ <summary>
+      Function ModificaSub_Categorias(ByVal pClsSub_Categorias As ClsSub_Categorias) Método para Modificar a TABELA Sub_Categorias
+      Gerado em 29/11/2022 16:04:41
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2022
+ </remarks>
+</member>
+<member name="M:FCT_2021.ClsSub_Categorias.GravaSub_Categorias(FCT_2021.ClsSub_Categorias)">
+ <summary>
+      Function GravaSub_Categorias(ByVal pNovoSub_Categorias As ClsSub_Categorias) Método para Gravar a TABELA Sub_Categorias
+      Gerado em 29/11/2022 16:04:41
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2022
+ </remarks>
+</member>
+<member name="M:FCT_2021.ClsSub_Categorias.ApagaSub_Categorias(System.String)">
+ <summary>
+      Function ApagaSub_Categorias(ByVal pCod_Sub_Categoria As String) Método para Apagar um Registo da Tabela Sub_Categorias
+      Gerado em 29/11/2022 16:04:41
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2022
+ </remarks>
+</member>
+<member name="T:FCT_2021.Sub_CategoriasComparer">
+ <summary>
+      Classe Sub_CategoriasComparer 
+      Gerado em 29/11/2022 16:04:41
+ </summary>
+ <remarks>
+      (c) ETLA - PM-2022
+ </remarks>
+</member>
+<member name="T:FCT_2021.ClsTipos_Doc">
+ <summary>
+      Classe ClsTipos_Doc Classe da Tabela Tipos_Doc
+      Gerado em 29/11/2022 16:04:41
+ </summary>
+ <remarks>
+      (c) ETLA - PM-2022
+ </remarks>
+</member>
+<member name="M:FCT_2021.ClsTipos_Doc.GetTipos_Doc">
+ <summary>
+      Function GetTipos_Doc() Método para devolver a Lista de Tipos_Doc
+      Gerado em 29/11/2022 16:04:41
+ </summary>
+ <returns>
+      mListaTipos_Doc
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2022
+ </remarks>
+</member>
+<member name="M:FCT_2021.ClsTipos_Doc.GetTipos_DocByCod(System.String)">
+ <summary>
+      Function GetTipos_DocByCod(ByVal pFLG_Tipo_Doc As String) Método para decolver uma Classe de Tipos_Doc
+      Gerado em 29/11/2022 16:04:41
+ </summary>
+ <returns>
+      mClsTipos_Doc
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2022
+ </remarks>
+</member>
+<member name="M:FCT_2021.ClsTipos_Doc.ModificaTipos_Doc(FCT_2021.ClsTipos_Doc)">
+ <summary>
+      Function ModificaTipos_Doc(ByVal pClsTipos_Doc As ClsTipos_Doc) Método para Modificar a TABELA Tipos_Doc
+      Gerado em 29/11/2022 16:04:41
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2022
+ </remarks>
+</member>
+<member name="M:FCT_2021.ClsTipos_Doc.GravaTipos_Doc(FCT_2021.ClsTipos_Doc)">
+ <summary>
+      Function GravaTipos_Doc(ByVal pNovoTipos_Doc As ClsTipos_Doc) Método para Gravar a TABELA Tipos_Doc
+      Gerado em 29/11/2022 16:04:41
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2022
+ </remarks>
+</member>
+<member name="M:FCT_2021.ClsTipos_Doc.ApagaTipos_Doc(System.String)">
+ <summary>
+      Function ApagaTipos_Doc(ByVal pFLG_Tipo_Doc As String) Método para Apagar um Registo da Tabela Tipos_Doc
+      Gerado em 29/11/2022 16:04:41
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2022
+ </remarks>
+</member>
+<member name="T:FCT_2021.ClsTipos_Pagamento">
+ <summary>
+      Classe ClsTipos_Pagamento Classe da Tabela Tipos_Pagamento
+      Gerado em 29/11/2022 16:04:42
+ </summary>
+ <remarks>
+      (c) ETLA - PM-2022
+ </remarks>
+</member>
+<member name="M:FCT_2021.ClsTipos_Pagamento.GetTipos_Pagamento">
+ <summary>
+      Function GetTipos_Pagamento() Método para devolver a Lista de Tipos_Pagamento
+      Gerado em 29/11/2022 16:04:42
+ </summary>
+ <returns>
+      mListaTipos_Pagamento
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2022
+ </remarks>
+</member>
+<member name="M:FCT_2021.ClsTipos_Pagamento.FiltrarTipos_Pagamento(FCT_2021.ClsTipos_Pagamento)">
+ <summary>
+      Function FiltrarTipos_Pagamento Método para Filtrar os campos da lista de Tipos_Pagamento
+      Gerado em 29/11/2022 16:04:42
+ </summary>
+ <returns>
+      mListaTipos_Pagamento
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2022
+ </remarks>
+</member>
+<member name="M:FCT_2021.ClsTipos_Pagamento.GetTipos_PagamentoByCod(System.String)">
+ <summary>
+      Function GetTipos_PagamentoByCod(ByVal pCod_Tipo_Pagamento As String) Método para decolver uma Classe de Tipos_Pagamento
+      Gerado em 29/11/2022 16:04:42
+ </summary>
+ <returns>
+      mClsTipos_Pagamento
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2022
+ </remarks>
+</member>
+<member name="M:FCT_2021.ClsTipos_Pagamento.ModificaTipos_Pagamento(FCT_2021.ClsTipos_Pagamento)">
+ <summary>
+      Function ModificaTipos_Pagamento(ByVal pClsTipos_Pagamento As ClsTipos_Pagamento) Método para Modificar a TABELA Tipos_Pagamento
+      Gerado em 29/11/2022 16:04:42
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2022
+ </remarks>
+</member>
+<member name="M:FCT_2021.ClsTipos_Pagamento.GravaTipos_Pagamento(FCT_2021.ClsTipos_Pagamento)">
+ <summary>
+      Function GravaTipos_Pagamento(ByVal pNovoTipos_Pagamento As ClsTipos_Pagamento) Método para Gravar a TABELA Tipos_Pagamento
+      Gerado em 29/11/2022 16:04:42
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2022
+ </remarks>
+</member>
+<member name="M:FCT_2021.ClsTipos_Pagamento.ApagaTipos_Pagamento(System.String)">
+ <summary>
+      Function ApagaTipos_Pagamento(ByVal pCod_Tipo_Pagamento As String) Método para Apagar um Registo da Tabela Tipos_Pagamento
+      Gerado em 29/11/2022 16:04:42
+ </summary>
+ <returns>
+      Boolean
+ </returns>
+ <remarks>
+      (c) ETLA - PM-2022
+ </remarks>
+</member>
+<member name="T:FCT_2021.Tipos_PagamentoComparer">
+ <summary>
+      Classe Tipos_PagamentoComparer 
+      Gerado em 29/11/2022 16:04:42
+ </summary>
+ <remarks>
+      (c) ETLA - PM-2022
+ </remarks>
+</member>
+<member name="M:FCT_2021.UC_ViewArt.ViewArt_Config">
+ <summary>
+ quando fazemos get, mostramos so os primeiros 25 atigos
+ e quando trocamos de pagina, mostra do 26 ao 51 etc etc
+ </summary>
+</member>
+</members>
+</doc>

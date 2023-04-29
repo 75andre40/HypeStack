@@ -1,0 +1,866 @@
+H:\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\BACK_OFFICE\obj\Debug\PAP.vbproj.AssemblyReference.cache
+H:\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\BACK_OFFICE\obj\Debug\PAP.vbproj.SuggestedBindingRedirects.cache
+H:\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\BACK_OFFICE\obj\Debug\FCT_2021.frmLogin.resources
+H:\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\BACK_OFFICE\obj\Debug\FCT_2021.frmUI.resources
+H:\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\BACK_OFFICE\obj\Debug\FCT_2021.Resources.resources
+H:\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\BACK_OFFICE\obj\Debug\FCT_2021.ucButton.resources
+H:\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\BACK_OFFICE\obj\Debug\FCT_2021.ucTextBox.resources
+H:\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\BACK_OFFICE\obj\Debug\PAP.vbproj.GenerateResource.cache
+H:\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\BACK_OFFICE\obj\Debug\FCT_2021.exe.licenses
+H:\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\BACK_OFFICE\obj\Debug\FCT_2021.exe
+H:\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\BACK_OFFICE\obj\Debug\FCT_2021.xml
+H:\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\BACK_OFFICE\obj\Debug\FCT_2021.pdb
+H:\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\BACK_OFFICE\bin\Debug\FCT_2021.exe.config
+H:\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\BACK_OFFICE\bin\Debug\FCT_2021.exe
+H:\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\BACK_OFFICE\bin\Debug\FCT_2021.pdb
+H:\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\BACK_OFFICE\bin\Debug\FCT_2021.xml
+H:\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\BACK_OFFICE\bin\Debug\Infragistics4.Shared.v21.1.dll
+H:\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\BACK_OFFICE\bin\Debug\Infragistics4.Win.UltraWinEditors.v21.1.dll
+H:\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\BACK_OFFICE\bin\Debug\Infragistics4.Win.v21.1.dll
+H:\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\BACK_OFFICE\bin\Debug\System.Buffers.dll
+H:\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\BACK_OFFICE\bin\Debug\System.Memory.dll
+H:\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\BACK_OFFICE\bin\Debug\System.Numerics.Vectors.dll
+H:\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\BACK_OFFICE\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+H:\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\BACK_OFFICE\bin\Debug\Infragistics4.Shared.v21.1.xml
+H:\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\BACK_OFFICE\bin\Debug\Infragistics4.Win.UltraWinEditors.v21.1.xml
+H:\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\BACK_OFFICE\bin\Debug\Infragistics4.Win.v21.1.xml
+H:\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\BACK_OFFICE\bin\Debug\System.Buffers.xml
+H:\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\BACK_OFFICE\bin\Debug\System.Memory.xml
+H:\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\BACK_OFFICE\bin\Debug\System.Numerics.Vectors.xml
+H:\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\BACK_OFFICE\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+H:\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\BACK_OFFICE\obj\Debug\PAP.vbproj.CoreCompileInputs.cache
+H:\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\BACK_OFFICE\obj\Debug\PAP.vbproj.CopyComplete
+H:\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\FCT_2021.exe.config
+H:\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\FCT_2021.exe
+H:\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\FCT_2021.pdb
+H:\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\FCT_2021.xml
+H:\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\Infragistics4.Shared.v21.1.dll
+H:\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\Infragistics4.Win.Misc.v21.1.dll
+H:\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\Infragistics4.Win.UltraWinEditors.v21.1.dll
+H:\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\Infragistics4.Win.UltraWinLiveTileView.v21.1.dll
+H:\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\Infragistics4.Win.v21.1.dll
+H:\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\System.Buffers.dll
+H:\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\System.Memory.dll
+H:\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\System.Numerics.Vectors.dll
+H:\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+H:\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\Infragistics4.Shared.v21.1.xml
+H:\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\Infragistics4.Win.Misc.v21.1.xml
+H:\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\Infragistics4.Win.UltraWinEditors.v21.1.xml
+H:\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\Infragistics4.Win.UltraWinLiveTileView.v21.1.xml
+H:\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\Infragistics4.Win.v21.1.xml
+H:\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\System.Buffers.xml
+H:\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\System.Memory.xml
+H:\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\System.Numerics.Vectors.xml
+H:\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+H:\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\obj\Debug\PAP.vbproj.AssemblyReference.cache
+H:\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\obj\Debug\PAP.vbproj.SuggestedBindingRedirects.cache
+H:\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\obj\Debug\FCT_2021.frmLogin.resources
+H:\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\obj\Debug\FCT_2021.frmUI.resources
+H:\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\obj\Debug\FCT_2021.Resources.resources
+H:\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\obj\Debug\FCT_2021.ucButton.resources
+H:\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\obj\Debug\FCT_2021.ucTextBox.resources
+H:\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\obj\Debug\FCT_2021.UC_GetArtigo.resources
+H:\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\obj\Debug\FCT_2021.UC_ViewArt.resources
+H:\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\obj\Debug\PAP.vbproj.GenerateResource.cache
+H:\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\obj\Debug\FCT_2021.exe.licenses
+H:\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\obj\Debug\PAP.vbproj.CoreCompileInputs.cache
+H:\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\obj\Debug\PAP.vbproj.CopyComplete
+H:\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\obj\Debug\FCT_2021.exe
+H:\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\obj\Debug\FCT_2021.xml
+H:\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\obj\Debug\FCT_2021.pdb
+C:\Users\conce\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\FCT_2021.exe.config
+C:\Users\conce\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\FCT_2021.exe
+C:\Users\conce\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\FCT_2021.pdb
+C:\Users\conce\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\FCT_2021.xml
+C:\Users\conce\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\Infragistics4.Shared.v21.1.dll
+C:\Users\conce\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\Infragistics4.Win.Misc.v21.1.dll
+C:\Users\conce\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\Infragistics4.Win.UltraWinEditors.v21.1.dll
+C:\Users\conce\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\Infragistics4.Win.UltraWinLiveTileView.v21.1.dll
+C:\Users\conce\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\Infragistics4.Win.v21.1.dll
+C:\Users\conce\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\System.Buffers.dll
+C:\Users\conce\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\System.Memory.dll
+C:\Users\conce\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\conce\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\conce\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\Infragistics4.Shared.v21.1.xml
+C:\Users\conce\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\Infragistics4.Win.Misc.v21.1.xml
+C:\Users\conce\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\Infragistics4.Win.UltraWinEditors.v21.1.xml
+C:\Users\conce\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\Infragistics4.Win.UltraWinLiveTileView.v21.1.xml
+C:\Users\conce\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\Infragistics4.Win.v21.1.xml
+C:\Users\conce\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\System.Buffers.xml
+C:\Users\conce\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\System.Memory.xml
+C:\Users\conce\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\conce\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\conce\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\obj\Debug\PAP.vbproj.AssemblyReference.cache
+C:\Users\conce\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\obj\Debug\PAP.vbproj.SuggestedBindingRedirects.cache
+C:\Users\conce\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\obj\Debug\FCT_2021.frmLogin.resources
+C:\Users\conce\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\obj\Debug\FCT_2021.frmUI.resources
+C:\Users\conce\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\obj\Debug\FCT_2021.Resources.resources
+C:\Users\conce\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\obj\Debug\FCT_2021.ucButton.resources
+C:\Users\conce\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\obj\Debug\FCT_2021.ucTextBox.resources
+C:\Users\conce\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\obj\Debug\FCT_2021.UC_GetArtigo.resources
+C:\Users\conce\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\obj\Debug\FCT_2021.UC_ViewArt.resources
+C:\Users\conce\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\obj\Debug\PAP.vbproj.GenerateResource.cache
+C:\Users\conce\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\obj\Debug\FCT_2021.exe.licenses
+C:\Users\conce\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\obj\Debug\PAP.vbproj.CoreCompileInputs.cache
+C:\Users\conce\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\obj\Debug\PAP.vbproj.CopyComplete
+C:\Users\conce\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\obj\Debug\FCT_2021.exe
+C:\Users\conce\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\obj\Debug\FCT_2021.xml
+C:\Users\conce\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\obj\Debug\FCT_2021.pdb
+C:\Users\conce\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\obj\Debug\FCT_2021.UC_DetalhesArtigo.resources
+C:\Users\esiandco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\FCT_2021.exe.config
+C:\Users\esiandco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\FCT_2021.exe
+C:\Users\esiandco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\FCT_2021.pdb
+C:\Users\esiandco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\FCT_2021.xml
+C:\Users\esiandco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+C:\Users\esiandco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\DevExpress.Data.v21.2.dll
+C:\Users\esiandco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+C:\Users\esiandco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+C:\Users\esiandco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\DevExpress.Utils.v21.2.dll
+C:\Users\esiandco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\DevExpress.XtraBars.v21.2.dll
+C:\Users\esiandco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+C:\Users\esiandco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\Infragistics4.Shared.v21.1.dll
+C:\Users\esiandco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\Infragistics4.Win.Misc.v21.1.dll
+C:\Users\esiandco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\Infragistics4.Win.UltraWinEditors.v21.1.dll
+C:\Users\esiandco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\Infragistics4.Win.UltraWinLiveTileView.v21.1.dll
+C:\Users\esiandco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\Infragistics4.Win.v21.1.dll
+C:\Users\esiandco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\System.Buffers.dll
+C:\Users\esiandco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\System.Memory.dll
+C:\Users\esiandco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\esiandco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\esiandco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+C:\Users\esiandco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+C:\Users\esiandco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+C:\Users\esiandco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\DevExpress.Data.v21.2.xml
+C:\Users\esiandco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+C:\Users\esiandco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+C:\Users\esiandco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\DevExpress.Utils.v21.2.xml
+C:\Users\esiandco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\DevExpress.XtraBars.v21.2.xml
+C:\Users\esiandco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+C:\Users\esiandco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\Infragistics4.Shared.v21.1.xml
+C:\Users\esiandco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\Infragistics4.Win.Misc.v21.1.xml
+C:\Users\esiandco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\Infragistics4.Win.UltraWinEditors.v21.1.xml
+C:\Users\esiandco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\Infragistics4.Win.UltraWinLiveTileView.v21.1.xml
+C:\Users\esiandco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\Infragistics4.Win.v21.1.xml
+C:\Users\esiandco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\System.Buffers.xml
+C:\Users\esiandco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\System.Memory.xml
+C:\Users\esiandco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\esiandco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\esiandco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+C:\Users\esiandco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+C:\Users\esiandco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+C:\Users\esiandco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+C:\Users\esiandco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+C:\Users\esiandco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+C:\Users\esiandco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\esiandco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\esiandco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\esiandco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\esiandco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\esiandco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\esiandco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\esiandco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\esiandco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+C:\Users\esiandco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+C:\Users\esiandco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+C:\Users\esiandco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+C:\Users\esiandco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\de\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\esiandco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\es\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\esiandco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\ja\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\esiandco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\ru\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\esiandco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\esiandco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\esiandco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\esiandco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\esiandco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\esiandco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\esiandco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\esiandco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\esiandco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\obj\Debug\PAP.vbproj.AssemblyReference.cache
+C:\Users\esiandco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\obj\Debug\PAP.vbproj.SuggestedBindingRedirects.cache
+C:\Users\esiandco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\obj\Debug\FCT_2021.frmLogin.resources
+C:\Users\esiandco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\obj\Debug\FCT_2021.frmUI.resources
+C:\Users\esiandco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\obj\Debug\FCT_2021.Resources.resources
+C:\Users\esiandco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\obj\Debug\FCT_2021.ucButton.resources
+C:\Users\esiandco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\obj\Debug\FCT_2021.ucTextBox.resources
+C:\Users\esiandco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\obj\Debug\FCT_2021.UC_DetalhesArtigo.resources
+C:\Users\esiandco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\obj\Debug\FCT_2021.UC_GetArtigo.resources
+C:\Users\esiandco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\obj\Debug\FCT_2021.UC_ViewArt.resources
+C:\Users\esiandco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\obj\Debug\PAP.vbproj.GenerateResource.cache
+C:\Users\esiandco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\obj\Debug\FCT_2021.exe.licenses
+C:\Users\esiandco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\obj\Debug\PAP.vbproj.CoreCompileInputs.cache
+C:\Users\esiandco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\obj\Debug\PAP.vbproj.CopyComplete
+C:\Users\esiandco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\obj\Debug\FCT_2021.exe
+C:\Users\esiandco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\obj\Debug\FCT_2021.xml
+C:\Users\esiandco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\obj\Debug\FCT_2021.pdb
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\FCT_2021.exe.config
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\FCT_2021.exe
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\FCT_2021.pdb
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\FCT_2021.xml
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\Infragistics4.Shared.v21.1.dll
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\Infragistics4.Win.Misc.v21.1.dll
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\Infragistics4.Win.UltraWinEditors.v21.1.dll
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\Infragistics4.Win.UltraWinGrid.v21.1.dll
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\Infragistics4.Win.UltraWinLiveTileView.v21.1.dll
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\Infragistics4.Win.v21.1.dll
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\System.Buffers.dll
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\System.Memory.dll
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\Infragistics4.Shared.v21.1.xml
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\Infragistics4.Win.Misc.v21.1.xml
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\Infragistics4.Win.UltraWinEditors.v21.1.xml
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\Infragistics4.Win.UltraWinGrid.v21.1.xml
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\Infragistics4.Win.UltraWinLiveTileView.v21.1.xml
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\Infragistics4.Win.v21.1.xml
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\System.Buffers.xml
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\System.Memory.xml
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\obj\Debug\PAP.vbproj.SuggestedBindingRedirects.cache
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\obj\Debug\FCT_2021.FrmDialog.resources
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\obj\Debug\FCT_2021.frmLogin.resources
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\obj\Debug\FCT_2021.frmUI.resources
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\obj\Debug\FCT_2021.Resources.resources
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\obj\Debug\FCT_2021.ucButton.resources
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\obj\Debug\FCT_2021.ucTextBox.resources
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\obj\Debug\FCT_2021.UC_DetalhesArtigo.resources
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\obj\Debug\FCT_2021.UC_GetArtigo.resources
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\obj\Debug\FCT_2021.UC_ViewArt.resources
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\obj\Debug\PAP.vbproj.GenerateResource.cache
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\obj\Debug\FCT_2021.exe.licenses
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\obj\Debug\PAP.vbproj.CoreCompileInputs.cache
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\obj\Debug\PAP.vbproj.CopyComplete
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\obj\Debug\FCT_2021.exe
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\obj\Debug\FCT_2021.xml
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\obj\Debug\FCT_2021.pdb
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\obj\Debug\FCT_2021.FrmTransparente.resources
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\obj\Debug\FCT_2021.UC_GetCategorias.resources
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\obj\Debug\FCT_2021.UC_ViewCat.resources
+C:\Users\conce\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\Infragistics4.Win.UltraWinGrid.v21.1.dll
+C:\Users\conce\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\Infragistics4.Win.UltraWinGrid.v21.1.xml
+C:\Users\conce\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\obj\Debug\FCT_2021.FrmDialog.resources
+C:\Users\conce\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\obj\Debug\FCT_2021.FrmTransparente.resources
+C:\Users\conce\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\obj\Debug\FCT_2021.UC_GetCategorias.resources
+C:\Users\conce\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\obj\Debug\FCT_2021.UC_ViewCat.resources
+H:\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\obj\Debug\FCT_2021.FrmDialog.resources
+H:\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\obj\Debug\FCT_2021.FrmTransparente.resources
+H:\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\obj\Debug\FCT_2021.UC_DetalhesArtigo.resources
+H:\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\obj\Debug\FCT_2021.UC_GetCategorias.resources
+H:\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\obj\Debug\FCT_2021.UC_ViewCat.resources
+H:\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\Infragistics4.Win.UltraWinGrid.v21.1.dll
+H:\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\Infragistics4.Win.UltraWinGrid.v21.1.xml
+C:\Users\esieduco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\FCT_2021.exe.config
+C:\Users\esieduco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\FCT_2021.exe
+C:\Users\esieduco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\FCT_2021.pdb
+C:\Users\esieduco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\FCT_2021.xml
+C:\Users\esieduco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\Infragistics4.Shared.v21.1.dll
+C:\Users\esieduco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\Infragistics4.Win.Misc.v21.1.dll
+C:\Users\esieduco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\Infragistics4.Win.UltraWinEditors.v21.1.dll
+C:\Users\esieduco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\Infragistics4.Win.UltraWinGrid.v21.1.dll
+C:\Users\esieduco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\Infragistics4.Win.UltraWinLiveTileView.v21.1.dll
+C:\Users\esieduco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\Infragistics4.Win.v21.1.dll
+C:\Users\esieduco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\System.Buffers.dll
+C:\Users\esieduco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\System.Memory.dll
+C:\Users\esieduco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\esieduco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\esieduco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\Infragistics4.Shared.v21.1.xml
+C:\Users\esieduco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\Infragistics4.Win.Misc.v21.1.xml
+C:\Users\esieduco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\Infragistics4.Win.UltraWinEditors.v21.1.xml
+C:\Users\esieduco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\Infragistics4.Win.UltraWinGrid.v21.1.xml
+C:\Users\esieduco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\Infragistics4.Win.UltraWinLiveTileView.v21.1.xml
+C:\Users\esieduco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\Infragistics4.Win.v21.1.xml
+C:\Users\esieduco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\System.Buffers.xml
+C:\Users\esieduco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\System.Memory.xml
+C:\Users\esieduco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\esieduco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\esieduco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\obj\Debug\PAP.vbproj.AssemblyReference.cache
+C:\Users\esieduco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\obj\Debug\PAP.vbproj.SuggestedBindingRedirects.cache
+C:\Users\esieduco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\obj\Debug\FCT_2021.FrmDialog.resources
+C:\Users\esieduco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\obj\Debug\FCT_2021.frmLogin.resources
+C:\Users\esieduco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\obj\Debug\FCT_2021.FrmTransparente.resources
+C:\Users\esieduco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\obj\Debug\FCT_2021.frmUI.resources
+C:\Users\esieduco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\obj\Debug\FCT_2021.Resources.resources
+C:\Users\esieduco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\obj\Debug\FCT_2021.ucButton.resources
+C:\Users\esieduco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\obj\Debug\FCT_2021.ucTextBox.resources
+C:\Users\esieduco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\obj\Debug\FCT_2021.UC_DetalhesArtigo.resources
+C:\Users\esieduco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\obj\Debug\FCT_2021.UC_GetArtigo.resources
+C:\Users\esieduco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\obj\Debug\FCT_2021.UC_GetCategorias.resources
+C:\Users\esieduco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\obj\Debug\FCT_2021.UC_ViewArt.resources
+C:\Users\esieduco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\obj\Debug\FCT_2021.UC_ViewCat.resources
+C:\Users\esieduco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\obj\Debug\PAP.vbproj.GenerateResource.cache
+C:\Users\esieduco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\obj\Debug\FCT_2021.exe.licenses
+C:\Users\esieduco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\obj\Debug\PAP.vbproj.CoreCompileInputs.cache
+C:\Users\esieduco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\obj\Debug\PAP.vbproj.CopyComplete
+C:\Users\esieduco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\obj\Debug\FCT_2021.exe
+C:\Users\esieduco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\obj\Debug\FCT_2021.xml
+C:\Users\esieduco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\obj\Debug\FCT_2021.pdb
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE\obj\Debug\PAP.vbproj.AssemblyReference.cache
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE - BACKUP\bin\Debug\FCT_2021.exe.config
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE - BACKUP\bin\Debug\FCT_2021.exe
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE - BACKUP\bin\Debug\FCT_2021.pdb
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE - BACKUP\bin\Debug\FCT_2021.xml
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE - BACKUP\bin\Debug\Infragistics4.Shared.v21.1.dll
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE - BACKUP\bin\Debug\Infragistics4.Win.Misc.v21.1.dll
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE - BACKUP\bin\Debug\Infragistics4.Win.UltraWinEditors.v21.1.dll
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE - BACKUP\bin\Debug\Infragistics4.Win.UltraWinGrid.v21.1.dll
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE - BACKUP\bin\Debug\Infragistics4.Win.UltraWinLiveTileView.v21.1.dll
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE - BACKUP\bin\Debug\Infragistics4.Win.v21.1.dll
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE - BACKUP\bin\Debug\System.Buffers.dll
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE - BACKUP\bin\Debug\System.Memory.dll
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE - BACKUP\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE - BACKUP\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE - BACKUP\bin\Debug\Infragistics4.Shared.v21.1.xml
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE - BACKUP\bin\Debug\Infragistics4.Win.Misc.v21.1.xml
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE - BACKUP\bin\Debug\Infragistics4.Win.UltraWinEditors.v21.1.xml
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE - BACKUP\bin\Debug\Infragistics4.Win.UltraWinGrid.v21.1.xml
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE - BACKUP\bin\Debug\Infragistics4.Win.UltraWinLiveTileView.v21.1.xml
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE - BACKUP\bin\Debug\Infragistics4.Win.v21.1.xml
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE - BACKUP\bin\Debug\System.Buffers.xml
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE - BACKUP\bin\Debug\System.Memory.xml
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE - BACKUP\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE - BACKUP\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE - BACKUP\obj\Debug\PAP.vbproj.AssemblyReference.cache
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE - BACKUP\obj\Debug\PAP.vbproj.SuggestedBindingRedirects.cache
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE - BACKUP\obj\Debug\FCT_2021.FrmDialog.resources
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE - BACKUP\obj\Debug\FCT_2021.frmLogin.resources
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE - BACKUP\obj\Debug\FCT_2021.FrmTransparente.resources
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE - BACKUP\obj\Debug\FCT_2021.frmUI.resources
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE - BACKUP\obj\Debug\FCT_2021.Resources.resources
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE - BACKUP\obj\Debug\FCT_2021.ucButton.resources
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE - BACKUP\obj\Debug\FCT_2021.ucTextBox.resources
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE - BACKUP\obj\Debug\FCT_2021.UC_DetalhesArtigo.resources
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE - BACKUP\obj\Debug\FCT_2021.UC_GetArtigo.resources
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE - BACKUP\obj\Debug\FCT_2021.UC_GetCategorias.resources
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE - BACKUP\obj\Debug\FCT_2021.UC_ViewArt.resources
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE - BACKUP\obj\Debug\FCT_2021.UC_ViewCat.resources
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE - BACKUP\obj\Debug\PAP.vbproj.GenerateResource.cache
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE - BACKUP\obj\Debug\FCT_2021.exe.licenses
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE - BACKUP\obj\Debug\PAP.vbproj.CoreCompileInputs.cache
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE - BACKUP\obj\Debug\PAP.vbproj.CopyComplete
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE - BACKUP\obj\Debug\FCT_2021.exe
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE - BACKUP\obj\Debug\FCT_2021.xml
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho\PAP\PROJETO\FRONT_OFFICE - BACKUP\obj\Debug\FCT_2021.pdb
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\bin\Debug\FCT_2021.exe.config
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\bin\Debug\FCT_2021.exe
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\bin\Debug\FCT_2021.pdb
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\bin\Debug\FCT_2021.xml
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\bin\Debug\Infragistics4.Shared.v21.1.dll
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\bin\Debug\Infragistics4.Win.Misc.v21.1.dll
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\bin\Debug\Infragistics4.Win.UltraWinEditors.v21.1.dll
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\bin\Debug\Infragistics4.Win.UltraWinGrid.v21.1.dll
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\bin\Debug\Infragistics4.Win.UltraWinLiveTileView.v21.1.dll
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\bin\Debug\Infragistics4.Win.v21.1.dll
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\bin\Debug\System.Buffers.dll
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\bin\Debug\System.Memory.dll
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\bin\Debug\Infragistics4.Shared.v21.1.xml
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\bin\Debug\Infragistics4.Win.Misc.v21.1.xml
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\bin\Debug\Infragistics4.Win.UltraWinEditors.v21.1.xml
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\bin\Debug\Infragistics4.Win.UltraWinGrid.v21.1.xml
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\bin\Debug\Infragistics4.Win.UltraWinLiveTileView.v21.1.xml
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\bin\Debug\Infragistics4.Win.v21.1.xml
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\bin\Debug\System.Buffers.xml
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\bin\Debug\System.Memory.xml
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\obj\Debug\PAP.vbproj.AssemblyReference.cache
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\obj\Debug\PAP.vbproj.SuggestedBindingRedirects.cache
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\obj\Debug\FCT_2021.FrmDialog.resources
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\obj\Debug\FCT_2021.frmLogin.resources
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\obj\Debug\FCT_2021.FrmTransparente.resources
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\obj\Debug\FCT_2021.frmUI.resources
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\obj\Debug\FCT_2021.Resources.resources
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\obj\Debug\FCT_2021.ucButton.resources
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\obj\Debug\FCT_2021.ucTextBox.resources
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\obj\Debug\FCT_2021.UC_DetalhesArtigo.resources
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\obj\Debug\FCT_2021.UC_GetArtigo.resources
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\obj\Debug\FCT_2021.UC_GetCategorias.resources
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\obj\Debug\FCT_2021.UC_ViewArt.resources
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\obj\Debug\FCT_2021.UC_ViewCat.resources
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\obj\Debug\PAP.vbproj.GenerateResource.cache
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\obj\Debug\FCT_2021.exe.licenses
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\obj\Debug\PAP.vbproj.CoreCompileInputs.cache
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\obj\Debug\PAP.vbproj.CopyComplete
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\obj\Debug\FCT_2021.exe
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\obj\Debug\FCT_2021.xml
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\obj\Debug\FCT_2021.pdb
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\bin\Debug\DevExpress.Data.v21.2.dll
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\bin\Debug\DevExpress.Data.v21.2.xml
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\bin\Debug\Infragistics4.Win.UltraWinTabControl.v21.1.dll
+C:\Users\esieduco.ETLA\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\bin\Debug\Infragistics4.Win.UltraWinTabControl.v21.1.xml
+C:\Users\conce\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\bin\Debug\FCT_2021.exe.config
+C:\Users\conce\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\bin\Debug\FCT_2021.exe
+C:\Users\conce\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\bin\Debug\FCT_2021.pdb
+C:\Users\conce\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\bin\Debug\FCT_2021.xml
+C:\Users\conce\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\bin\Debug\Infragistics4.Shared.v21.1.dll
+C:\Users\conce\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\bin\Debug\Infragistics4.Win.Misc.v21.1.dll
+C:\Users\conce\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\bin\Debug\Infragistics4.Win.UltraWinEditors.v21.1.dll
+C:\Users\conce\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\bin\Debug\Infragistics4.Win.UltraWinGrid.v21.1.dll
+C:\Users\conce\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\bin\Debug\Infragistics4.Win.UltraWinLiveTileView.v21.1.dll
+C:\Users\conce\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\bin\Debug\Infragistics4.Win.UltraWinTabControl.v21.1.dll
+C:\Users\conce\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\bin\Debug\Infragistics4.Win.v21.1.dll
+C:\Users\conce\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\bin\Debug\System.Buffers.dll
+C:\Users\conce\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\bin\Debug\System.Memory.dll
+C:\Users\conce\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\conce\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\conce\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\bin\Debug\DevExpress.Data.v21.2.xml
+C:\Users\conce\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\bin\Debug\Infragistics4.Shared.v21.1.xml
+C:\Users\conce\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\bin\Debug\Infragistics4.Win.Misc.v21.1.xml
+C:\Users\conce\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\bin\Debug\Infragistics4.Win.UltraWinEditors.v21.1.xml
+C:\Users\conce\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\bin\Debug\Infragistics4.Win.UltraWinGrid.v21.1.xml
+C:\Users\conce\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\bin\Debug\Infragistics4.Win.UltraWinLiveTileView.v21.1.xml
+C:\Users\conce\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\bin\Debug\Infragistics4.Win.UltraWinTabControl.v21.1.xml
+C:\Users\conce\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\bin\Debug\Infragistics4.Win.v21.1.xml
+C:\Users\conce\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\bin\Debug\System.Buffers.xml
+C:\Users\conce\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\bin\Debug\System.Memory.xml
+C:\Users\conce\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\conce\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\conce\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+C:\Users\conce\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+C:\Users\conce\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+C:\Users\conce\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+C:\Users\conce\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\obj\Debug\PAP.vbproj.AssemblyReference.cache
+C:\Users\conce\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\obj\Debug\PAP.vbproj.SuggestedBindingRedirects.cache
+C:\Users\conce\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\obj\Debug\FCT_2021.FrmDialog.resources
+C:\Users\conce\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\obj\Debug\FCT_2021.frmLogin.resources
+C:\Users\conce\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\obj\Debug\FCT_2021.FrmTransparente.resources
+C:\Users\conce\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\obj\Debug\FCT_2021.frmUI.resources
+C:\Users\conce\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\obj\Debug\FCT_2021.Resources.resources
+C:\Users\conce\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\obj\Debug\FCT_2021.ucButton.resources
+C:\Users\conce\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\obj\Debug\FCT_2021.ucTextBox.resources
+C:\Users\conce\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\obj\Debug\FCT_2021.UC_DetalhesArtigo.resources
+C:\Users\conce\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\obj\Debug\FCT_2021.UC_GetArtigo.resources
+C:\Users\conce\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\obj\Debug\FCT_2021.UC_GetCategorias.resources
+C:\Users\conce\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\obj\Debug\FCT_2021.UC_ViewArt.resources
+C:\Users\conce\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\obj\Debug\FCT_2021.UC_ViewCat.resources
+C:\Users\conce\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\obj\Debug\PAP.vbproj.GenerateResource.cache
+C:\Users\conce\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\obj\Debug\FCT_2021.exe.licenses
+C:\Users\conce\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\obj\Debug\PAP.vbproj.CoreCompileInputs.cache
+C:\Users\conce\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\obj\Debug\PAP.vbproj.CopyComplete
+C:\Users\conce\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\obj\Debug\FCT_2021.exe
+C:\Users\conce\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\obj\Debug\FCT_2021.xml
+C:\Users\conce\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\obj\Debug\FCT_2021.pdb
+C:\Users\esieduco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\bin\Debug\FCT_2021.exe.config
+C:\Users\esieduco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\bin\Debug\FCT_2021.exe
+C:\Users\esieduco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\bin\Debug\FCT_2021.pdb
+C:\Users\esieduco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\bin\Debug\FCT_2021.xml
+C:\Users\esieduco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\bin\Debug\System.Buffers.dll
+C:\Users\esieduco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\bin\Debug\System.Memory.dll
+C:\Users\esieduco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\esieduco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\esieduco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\bin\Debug\System.Buffers.xml
+C:\Users\esieduco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\bin\Debug\System.Memory.xml
+C:\Users\esieduco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\esieduco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\esieduco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\obj\Debug\PAP.vbproj.SuggestedBindingRedirects.cache
+C:\Users\esieduco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\obj\Debug\FCT_2021.FrmDialog.resources
+C:\Users\esieduco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\obj\Debug\FCT_2021.frmLogin.resources
+C:\Users\esieduco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\obj\Debug\FCT_2021.FrmTransparente.resources
+C:\Users\esieduco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\obj\Debug\FCT_2021.frmUI.resources
+C:\Users\esieduco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\obj\Debug\FCT_2021.Resources.resources
+C:\Users\esieduco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\obj\Debug\FCT_2021.ucButton.resources
+C:\Users\esieduco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\obj\Debug\FCT_2021.ucTextBox.resources
+C:\Users\esieduco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\obj\Debug\FCT_2021.UC_DetalhesArtigo.resources
+C:\Users\esieduco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\obj\Debug\FCT_2021.UC_GetArtigo.resources
+C:\Users\esieduco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\obj\Debug\FCT_2021.UC_GetCategorias.resources
+C:\Users\esieduco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\obj\Debug\FCT_2021.UC_ViewArt.resources
+C:\Users\esieduco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\obj\Debug\FCT_2021.UC_ViewCat.resources
+C:\Users\esieduco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\obj\Debug\PAP.vbproj.GenerateResource.cache
+C:\Users\esieduco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\obj\Debug\FCT_2021.exe.licenses
+C:\Users\esieduco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\obj\Debug\PAP.vbproj.CoreCompileInputs.cache
+C:\Users\esieduco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\obj\Debug\PAP.vbproj.CopyComplete
+C:\Users\esieduco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\obj\Debug\FCT_2021.exe
+C:\Users\esieduco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\obj\Debug\FCT_2021.xml
+C:\Users\esieduco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\obj\Debug\FCT_2021.pdb
+C:\Users\esieduco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\obj\Debug\PAP.vbproj.AssemblyReference.cache
+C:\Users\esieduco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\bin\Debug\DevExpress.Data.v22.2.dll
+C:\Users\esieduco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\bin\Debug\DevExpress.Drawing.v22.2.dll
+C:\Users\esieduco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+C:\Users\esieduco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+C:\Users\esieduco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+C:\Users\esieduco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+C:\Users\esieduco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\bin\Debug\DevExpress.Data.v22.2.xml
+C:\Users\esieduco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+C:\Users\esieduco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+C:\Users\esieduco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\bin\Debug\Infragistics4.Shared.v22.2.dll
+C:\Users\esieduco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\bin\Debug\Infragistics4.Win.Misc.v22.2.dll
+C:\Users\esieduco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\bin\Debug\Infragistics4.Win.UltraWinEditors.v22.2.dll
+C:\Users\esieduco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\bin\Debug\Infragistics4.Win.UltraWinGrid.v22.2.dll
+C:\Users\esieduco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\bin\Debug\Infragistics4.Win.UltraWinLiveTileView.v22.2.dll
+C:\Users\esieduco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\bin\Debug\Infragistics4.Win.UltraWinTabControl.v22.2.dll
+C:\Users\esieduco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\bin\Debug\Infragistics4.Win.v22.2.dll
+C:\Users\esieduco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\bin\Debug\Infragistics4.Win.v22.2.xml
+C:\Users\esieduco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\bin\Debug\Infragistics4.Win.UltraWinTabControl.v22.2.xml
+C:\Users\esieduco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\bin\Debug\Infragistics4.Win.UltraWinLiveTileView.v22.2.xml
+C:\Users\esieduco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\bin\Debug\Infragistics4.Win.UltraWinGrid.v22.2.xml
+C:\Users\esieduco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\bin\Debug\Infragistics4.Win.UltraWinEditors.v22.2.xml
+C:\Users\esieduco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\bin\Debug\Infragistics4.Win.Misc.v22.2.xml
+C:\Users\esieduco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\bin\Debug\Infragistics4.Shared.v22.2.xml
+C:\Users\esieduco\OneDrive - Associação para a Formação Tecnológica no Litoral Alentejano\Ambiente de Trabalho Escola\PAP\FRONT_OFFICE\obj\Debug\FCT_2021.xrFat.resources
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\bin\Debug\FCT_2021.exe.config
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\bin\Debug\FCT_2021.exe
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\bin\Debug\FCT_2021.pdb
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\bin\Debug\FCT_2021.xml
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\bin\Debug\DevExpress.Charts.v22.2.Core.dll
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\bin\Debug\DevExpress.Data.v22.2.dll
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\bin\Debug\DevExpress.DataAccess.v22.2.dll
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\bin\Debug\DevExpress.DataAccess.v22.2.UI.dll
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\bin\Debug\DevExpress.Drawing.v22.2.dll
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\bin\Debug\DevExpress.Office.v22.2.Core.dll
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\bin\Debug\DevExpress.PivotGrid.v22.2.Core.dll
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\bin\Debug\DevExpress.RichEdit.v22.2.Core.dll
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\bin\Debug\DevExpress.RichEdit.v22.2.Export.dll
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\bin\Debug\DevExpress.Utils.v22.2.dll
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\bin\Debug\DevExpress.Utils.v22.2.UI.dll
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\bin\Debug\DevExpress.Xpo.v22.2.dll
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\bin\Debug\DevExpress.XtraBars.v22.2.dll
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\bin\Debug\DevExpress.XtraCharts.v22.2.dll
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\bin\Debug\DevExpress.XtraEditors.v22.2.dll
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\bin\Debug\DevExpress.XtraGauges.v22.2.Core.dll
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\bin\Debug\DevExpress.XtraPrinting.v22.2.dll
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\bin\Debug\DevExpress.XtraReports.v22.2.dll
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\bin\Debug\DevExpress.XtraReports.v22.2.Extensions.dll
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\bin\Debug\Infragistics4.Shared.v22.2.dll
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\bin\Debug\Infragistics4.Win.Misc.v22.2.dll
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\bin\Debug\Infragistics4.Win.UltraWinEditors.v22.2.dll
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\bin\Debug\Infragistics4.Win.UltraWinGrid.v22.2.dll
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\bin\Debug\Infragistics4.Win.UltraWinLiveTileView.v22.2.dll
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\bin\Debug\Infragistics4.Win.UltraWinTabControl.v22.2.dll
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\bin\Debug\Infragistics4.Win.v22.2.dll
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\bin\Debug\System.Buffers.dll
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\bin\Debug\System.Memory.dll
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\bin\Debug\System.Numerics.Vectors.dll
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\bin\Debug\DevExpress.CodeParser.v22.2.dll
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\bin\Debug\DevExpress.XtraRichEdit.v22.2.dll
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\bin\Debug\DevExpress.XtraGrid.v22.2.dll
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\bin\Debug\DevExpress.XtraLayout.v22.2.dll
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\bin\Debug\DevExpress.XtraTreeList.v22.2.dll
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\bin\Debug\DevExpress.XtraDiagram.v22.2.dll
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\bin\Debug\DevExpress.Diagram.v22.2.Core.dll
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.dll
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\bin\Debug\DevExpress.DataVisualization.v22.2.Core.dll
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\bin\Debug\DevExpress.XtraNavBar.v22.2.dll
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.dll
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\bin\Debug\DevExpress.XtraPivotGrid.v22.2.dll
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\bin\Debug\DevExpress.XtraCharts.v22.2.Extensions.dll
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\bin\Debug\DevExpress.Images.v22.2.dll
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\bin\Debug\DevExpress.Charts.v22.2.Core.xml
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\bin\Debug\DevExpress.DataAccess.v22.2.xml
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\bin\Debug\DevExpress.DataAccess.v22.2.UI.xml
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\bin\Debug\DevExpress.Office.v22.2.Core.xml
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\bin\Debug\DevExpress.PivotGrid.v22.2.Core.xml
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\bin\Debug\DevExpress.RichEdit.v22.2.Core.xml
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\bin\Debug\DevExpress.Utils.v22.2.xml
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\bin\Debug\DevExpress.Utils.v22.2.UI.xml
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\bin\Debug\DevExpress.Xpo.v22.2.xml
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\bin\Debug\DevExpress.XtraBars.v22.2.xml
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\bin\Debug\DevExpress.XtraCharts.v22.2.xml
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\bin\Debug\DevExpress.XtraGauges.v22.2.Core.xml
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\bin\Debug\DevExpress.XtraPrinting.v22.2.xml
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\bin\Debug\DevExpress.XtraReports.v22.2.xml
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\bin\Debug\DevExpress.XtraReports.v22.2.Extensions.xml
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\bin\Debug\Infragistics4.Win.v22.2.xml
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\bin\Debug\Infragistics4.Win.UltraWinTabControl.v22.2.xml
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\bin\Debug\Infragistics4.Win.UltraWinLiveTileView.v22.2.xml
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\bin\Debug\Infragistics4.Win.UltraWinGrid.v22.2.xml
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\bin\Debug\Infragistics4.Win.UltraWinEditors.v22.2.xml
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\bin\Debug\Infragistics4.Win.Misc.v22.2.xml
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\bin\Debug\Infragistics4.Shared.v22.2.xml
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\bin\Debug\DevExpress.Data.v22.2.xml
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\bin\Debug\System.Buffers.xml
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\bin\Debug\System.Memory.xml
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\bin\Debug\System.Numerics.Vectors.xml
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\bin\Debug\DevExpress.XtraRichEdit.v22.2.xml
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\bin\Debug\DevExpress.XtraGrid.v22.2.xml
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\bin\Debug\DevExpress.XtraLayout.v22.2.xml
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\bin\Debug\DevExpress.XtraTreeList.v22.2.xml
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\bin\Debug\DevExpress.XtraDiagram.v22.2.xml
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\bin\Debug\DevExpress.Diagram.v22.2.Core.xml
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.xml
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\bin\Debug\DevExpress.XtraNavBar.v22.2.xml
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.xml
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\bin\Debug\DevExpress.XtraPivotGrid.v22.2.xml
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\obj\Debug\PAP.vbproj.AssemblyReference.cache
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\obj\Debug\PAP.vbproj.SuggestedBindingRedirects.cache
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\obj\Debug\FCT_2021.FrmDialog.resources
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\obj\Debug\FCT_2021.frmLogin.resources
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\obj\Debug\FCT_2021.frmReport.resources
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\obj\Debug\FCT_2021.FrmTransparente.resources
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\obj\Debug\FCT_2021.frmUI.resources
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\obj\Debug\FCT_2021.Resources.resources
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\obj\Debug\FCT_2021.xrFat.resources
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\obj\Debug\FCT_2021.xrQI.resources
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\obj\Debug\FCT_2021.ucButton.resources
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\obj\Debug\FCT_2021.ucTextBox.resources
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\obj\Debug\FCT_2021.UC_DetalhesArtigo.resources
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\obj\Debug\FCT_2021.UC_GetArtigo.resources
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\obj\Debug\FCT_2021.UC_GetCategorias.resources
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\obj\Debug\FCT_2021.UC_ViewArt.resources
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\obj\Debug\FCT_2021.UC_ViewCat.resources
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\obj\Debug\PAP.vbproj.GenerateResource.cache
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\obj\Debug\FCT_2021.exe.licenses
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\obj\Debug\PAP.vbproj.CoreCompileInputs.cache
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\obj\Debug\PAP.vbproj.CopyComplete
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\obj\Debug\FCT_2021.exe
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\obj\Debug\FCT_2021.xml
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE_ANTER\obj\Debug\FCT_2021.pdb
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\bin\Debug\FCT_2021.exe.config
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\bin\Debug\FCT_2021.exe
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\bin\Debug\FCT_2021.pdb
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\bin\Debug\FCT_2021.xml
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\bin\Debug\DevExpress.Charts.v22.2.Core.dll
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\bin\Debug\DevExpress.Data.v22.2.dll
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\bin\Debug\DevExpress.DataAccess.v22.2.dll
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\bin\Debug\DevExpress.DataAccess.v22.2.UI.dll
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\bin\Debug\DevExpress.Drawing.v22.2.dll
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\bin\Debug\DevExpress.Office.v22.2.Core.dll
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\bin\Debug\DevExpress.PivotGrid.v22.2.Core.dll
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\bin\Debug\DevExpress.RichEdit.v22.2.Core.dll
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\bin\Debug\DevExpress.RichEdit.v22.2.Export.dll
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\bin\Debug\DevExpress.Utils.v22.2.dll
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\bin\Debug\DevExpress.Utils.v22.2.UI.dll
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\bin\Debug\DevExpress.Xpo.v22.2.dll
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\bin\Debug\DevExpress.XtraBars.v22.2.dll
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\bin\Debug\DevExpress.XtraCharts.v22.2.dll
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\bin\Debug\DevExpress.XtraEditors.v22.2.dll
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\bin\Debug\DevExpress.XtraGauges.v22.2.Core.dll
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\bin\Debug\DevExpress.XtraPrinting.v22.2.dll
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\bin\Debug\DevExpress.XtraReports.v22.2.dll
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\bin\Debug\DevExpress.XtraReports.v22.2.Extensions.dll
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\bin\Debug\Infragistics4.Shared.v22.2.dll
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\bin\Debug\Infragistics4.Win.Misc.v22.2.dll
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\bin\Debug\Infragistics4.Win.UltraWinEditors.v22.2.dll
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\bin\Debug\Infragistics4.Win.UltraWinGrid.v22.2.dll
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\bin\Debug\Infragistics4.Win.UltraWinLiveTileView.v22.2.dll
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\bin\Debug\Infragistics4.Win.UltraWinTabControl.v22.2.dll
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\bin\Debug\Infragistics4.Win.v22.2.dll
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\bin\Debug\System.Buffers.dll
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\bin\Debug\System.Memory.dll
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\bin\Debug\System.Numerics.Vectors.dll
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\bin\Debug\DevExpress.CodeParser.v22.2.dll
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\bin\Debug\DevExpress.XtraRichEdit.v22.2.dll
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\bin\Debug\DevExpress.XtraGrid.v22.2.dll
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\bin\Debug\DevExpress.XtraLayout.v22.2.dll
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\bin\Debug\DevExpress.XtraTreeList.v22.2.dll
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\bin\Debug\DevExpress.XtraDiagram.v22.2.dll
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\bin\Debug\DevExpress.Diagram.v22.2.Core.dll
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.dll
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\bin\Debug\DevExpress.DataVisualization.v22.2.Core.dll
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\bin\Debug\DevExpress.XtraNavBar.v22.2.dll
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.dll
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\bin\Debug\DevExpress.XtraPivotGrid.v22.2.dll
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\bin\Debug\DevExpress.XtraCharts.v22.2.Extensions.dll
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\bin\Debug\DevExpress.Images.v22.2.dll
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\bin\Debug\DevExpress.Charts.v22.2.Core.xml
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\bin\Debug\DevExpress.DataAccess.v22.2.xml
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\bin\Debug\DevExpress.DataAccess.v22.2.UI.xml
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\bin\Debug\DevExpress.Office.v22.2.Core.xml
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\bin\Debug\DevExpress.PivotGrid.v22.2.Core.xml
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\bin\Debug\DevExpress.RichEdit.v22.2.Core.xml
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\bin\Debug\DevExpress.Utils.v22.2.xml
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\bin\Debug\DevExpress.Utils.v22.2.UI.xml
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\bin\Debug\DevExpress.Xpo.v22.2.xml
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\bin\Debug\DevExpress.XtraBars.v22.2.xml
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\bin\Debug\DevExpress.XtraCharts.v22.2.xml
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\bin\Debug\DevExpress.XtraGauges.v22.2.Core.xml
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\bin\Debug\DevExpress.XtraPrinting.v22.2.xml
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\bin\Debug\DevExpress.XtraReports.v22.2.xml
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\bin\Debug\DevExpress.XtraReports.v22.2.Extensions.xml
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\bin\Debug\Infragistics4.Win.v22.2.xml
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\bin\Debug\Infragistics4.Win.UltraWinTabControl.v22.2.xml
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\bin\Debug\Infragistics4.Win.UltraWinLiveTileView.v22.2.xml
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\bin\Debug\Infragistics4.Win.UltraWinGrid.v22.2.xml
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\bin\Debug\Infragistics4.Win.UltraWinEditors.v22.2.xml
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\bin\Debug\Infragistics4.Win.Misc.v22.2.xml
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\bin\Debug\Infragistics4.Shared.v22.2.xml
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\bin\Debug\DevExpress.Data.v22.2.xml
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\bin\Debug\System.Buffers.xml
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\bin\Debug\System.Memory.xml
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\bin\Debug\System.Numerics.Vectors.xml
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\bin\Debug\DevExpress.XtraRichEdit.v22.2.xml
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\bin\Debug\DevExpress.XtraGrid.v22.2.xml
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\bin\Debug\DevExpress.XtraLayout.v22.2.xml
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\bin\Debug\DevExpress.XtraTreeList.v22.2.xml
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\bin\Debug\DevExpress.XtraDiagram.v22.2.xml
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\bin\Debug\DevExpress.Diagram.v22.2.Core.xml
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.xml
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\bin\Debug\DevExpress.XtraNavBar.v22.2.xml
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.xml
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\bin\Debug\DevExpress.XtraPivotGrid.v22.2.xml
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\obj\Debug\PAP.vbproj.AssemblyReference.cache
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\obj\Debug\PAP.vbproj.SuggestedBindingRedirects.cache
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\obj\Debug\FCT_2021.FrmDialog.resources
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\obj\Debug\FCT_2021.frmLogin.resources
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\obj\Debug\FCT_2021.frmLoginProgressBar.resources
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\obj\Debug\FCT_2021.frmReport.resources
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\obj\Debug\FCT_2021.FrmTransparente.resources
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\obj\Debug\FCT_2021.frmUI.resources
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\obj\Debug\FCT_2021.Resources.resources
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\obj\Debug\FCT_2021.xrFat.resources
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\obj\Debug\FCT_2021.xrQI.resources
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\obj\Debug\FCT_2021.ucButton.resources
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\obj\Debug\FCT_2021.ucTextBox.resources
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\obj\Debug\FCT_2021.UC_DetalhesArtigo.resources
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\obj\Debug\FCT_2021.UC_GetArtigo.resources
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\obj\Debug\FCT_2021.UC_GetCategorias.resources
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\obj\Debug\FCT_2021.UC_ViewArt.resources
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\obj\Debug\FCT_2021.UC_ViewCat.resources
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\obj\Debug\PAP.vbproj.GenerateResource.cache
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\obj\Debug\FCT_2021.exe.licenses
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\obj\Debug\PAP.vbproj.CoreCompileInputs.cache
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\obj\Debug\PAP.vbproj.CopyComplete
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\obj\Debug\FCT_2021.exe
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\obj\Debug\FCT_2021.xml
+M:\AA-grupoi201\03-Programas\FRONT_OFFICE\obj\Debug\FCT_2021.pdb
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\bin\Debug\FCT_2021.exe.config
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\bin\Debug\FCT_2021.exe
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\bin\Debug\FCT_2021.pdb
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\bin\Debug\FCT_2021.xml
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\bin\Debug\DevExpress.Charts.v22.2.Core.dll
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\bin\Debug\DevExpress.Data.v22.2.dll
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\bin\Debug\DevExpress.DataAccess.v22.2.dll
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\bin\Debug\DevExpress.DataAccess.v22.2.UI.dll
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\bin\Debug\DevExpress.Drawing.v22.2.dll
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\bin\Debug\DevExpress.Office.v22.2.Core.dll
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\bin\Debug\DevExpress.PivotGrid.v22.2.Core.dll
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\bin\Debug\DevExpress.RichEdit.v22.2.Core.dll
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\bin\Debug\DevExpress.RichEdit.v22.2.Export.dll
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\bin\Debug\DevExpress.Utils.v22.2.dll
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\bin\Debug\DevExpress.Utils.v22.2.UI.dll
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\bin\Debug\DevExpress.Xpo.v22.2.dll
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\bin\Debug\DevExpress.XtraBars.v22.2.dll
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\bin\Debug\DevExpress.XtraCharts.v22.2.dll
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\bin\Debug\DevExpress.XtraEditors.v22.2.dll
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\bin\Debug\DevExpress.XtraGauges.v22.2.Core.dll
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\bin\Debug\DevExpress.XtraPrinting.v22.2.dll
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\bin\Debug\DevExpress.XtraReports.v22.2.dll
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\bin\Debug\DevExpress.XtraReports.v22.2.Extensions.dll
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\bin\Debug\Infragistics4.Shared.v22.2.dll
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\bin\Debug\Infragistics4.Win.Misc.v22.2.dll
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\bin\Debug\Infragistics4.Win.UltraWinEditors.v22.2.dll
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\bin\Debug\Infragistics4.Win.UltraWinGrid.v22.2.dll
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\bin\Debug\Infragistics4.Win.UltraWinLiveTileView.v22.2.dll
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\bin\Debug\Infragistics4.Win.UltraWinTabControl.v22.2.dll
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\bin\Debug\Infragistics4.Win.v22.2.dll
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\bin\Debug\System.Buffers.dll
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\bin\Debug\System.Memory.dll
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\bin\Debug\System.Numerics.Vectors.dll
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\bin\Debug\DevExpress.CodeParser.v22.2.dll
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\bin\Debug\DevExpress.XtraRichEdit.v22.2.dll
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\bin\Debug\DevExpress.XtraGrid.v22.2.dll
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\bin\Debug\DevExpress.XtraLayout.v22.2.dll
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\bin\Debug\DevExpress.XtraTreeList.v22.2.dll
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\bin\Debug\DevExpress.XtraDiagram.v22.2.dll
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\bin\Debug\DevExpress.Diagram.v22.2.Core.dll
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.dll
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\bin\Debug\DevExpress.DataVisualization.v22.2.Core.dll
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\bin\Debug\DevExpress.XtraNavBar.v22.2.dll
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.dll
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\bin\Debug\DevExpress.XtraPivotGrid.v22.2.dll
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\bin\Debug\DevExpress.XtraCharts.v22.2.Extensions.dll
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\bin\Debug\DevExpress.Images.v22.2.dll
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\bin\Debug\DevExpress.Charts.v22.2.Core.xml
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\bin\Debug\DevExpress.DataAccess.v22.2.xml
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\bin\Debug\DevExpress.DataAccess.v22.2.UI.xml
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\bin\Debug\DevExpress.Office.v22.2.Core.xml
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\bin\Debug\DevExpress.PivotGrid.v22.2.Core.xml
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\bin\Debug\DevExpress.RichEdit.v22.2.Core.xml
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\bin\Debug\DevExpress.Utils.v22.2.xml
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\bin\Debug\DevExpress.Utils.v22.2.UI.xml
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\bin\Debug\DevExpress.Xpo.v22.2.xml
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\bin\Debug\DevExpress.XtraBars.v22.2.xml
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\bin\Debug\DevExpress.XtraCharts.v22.2.xml
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\bin\Debug\DevExpress.XtraGauges.v22.2.Core.xml
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\bin\Debug\DevExpress.XtraPrinting.v22.2.xml
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\bin\Debug\DevExpress.XtraReports.v22.2.xml
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\bin\Debug\DevExpress.XtraReports.v22.2.Extensions.xml
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\bin\Debug\Infragistics4.Win.v22.2.xml
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\bin\Debug\Infragistics4.Win.UltraWinTabControl.v22.2.xml
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\bin\Debug\Infragistics4.Win.UltraWinLiveTileView.v22.2.xml
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\bin\Debug\Infragistics4.Win.UltraWinGrid.v22.2.xml
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\bin\Debug\Infragistics4.Win.UltraWinEditors.v22.2.xml
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\bin\Debug\Infragistics4.Win.Misc.v22.2.xml
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\bin\Debug\Infragistics4.Shared.v22.2.xml
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\bin\Debug\DevExpress.Data.v22.2.xml
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\bin\Debug\System.Buffers.xml
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\bin\Debug\System.Memory.xml
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\bin\Debug\System.Numerics.Vectors.xml
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\bin\Debug\DevExpress.XtraRichEdit.v22.2.xml
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\bin\Debug\DevExpress.XtraGrid.v22.2.xml
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\bin\Debug\DevExpress.XtraLayout.v22.2.xml
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\bin\Debug\DevExpress.XtraTreeList.v22.2.xml
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\bin\Debug\DevExpress.XtraDiagram.v22.2.xml
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\bin\Debug\DevExpress.Diagram.v22.2.Core.xml
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.xml
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\bin\Debug\DevExpress.XtraNavBar.v22.2.xml
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.xml
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\bin\Debug\DevExpress.XtraPivotGrid.v22.2.xml
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\obj\Debug\PAP.vbproj.AssemblyReference.cache
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\obj\Debug\PAP.vbproj.SuggestedBindingRedirects.cache
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\obj\Debug\FCT_2021.FrmDialog.resources
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\obj\Debug\FCT_2021.frmLogin.resources
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\obj\Debug\FCT_2021.frmLoginProgressBar.resources
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\obj\Debug\FCT_2021.frmReport.resources
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\obj\Debug\FCT_2021.FrmTransparente.resources
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\obj\Debug\FCT_2021.frmUI.resources
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\obj\Debug\FCT_2021.Resources.resources
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\obj\Debug\FCT_2021.xrFat.resources
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\obj\Debug\FCT_2021.xrQI.resources
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\obj\Debug\FCT_2021.ucButton.resources
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\obj\Debug\FCT_2021.ucTextBox.resources
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\obj\Debug\FCT_2021.UC_DetalhesArtigo.resources
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\obj\Debug\FCT_2021.UC_GetArtigo.resources
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\obj\Debug\FCT_2021.UC_GetCategorias.resources
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\obj\Debug\FCT_2021.UC_ViewArt.resources
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\obj\Debug\FCT_2021.UC_ViewCat.resources
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\obj\Debug\PAP.vbproj.GenerateResource.cache
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\obj\Debug\FCT_2021.exe.licenses
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\obj\Debug\PAP.vbproj.CoreCompileInputs.cache
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\obj\Debug\PAP.vbproj.CopyComplete
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\obj\Debug\FCT_2021.exe
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\obj\Debug\FCT_2021.xml
+F:\Documents\GitHub\HypeStack\Program\HypeStack\FRONT_OFFICE\obj\Debug\FCT_2021.pdb

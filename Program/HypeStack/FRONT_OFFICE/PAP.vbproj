@@ -1,0 +1,390 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{58D94C56-A1AA-477A-862F-312C9A20E129}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>FCT_2021.My.MyApplication</StartupObject>
+    <RootNamespace>FCT_2021</RootNamespace>
+    <AssemblyName>FCT_2021</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>FCT_2021.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>FCT_2021.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Resources\Logo\LogoCircle.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.Charts.v22.2.Core, Version=22.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Data.Desktop.v22.2, Version=22.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.DataAccess.v22.2, Version=22.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.DataAccess.v22.2.UI, Version=22.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Office.v22.2.Core, Version=22.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Pdf.v22.2.Core, Version=22.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.PivotGrid.v22.2.Core, Version=22.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.RichEdit.v22.2.Core, Version=22.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.RichEdit.v22.2.Export, Version=22.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Sparkline.v22.2.Core, Version=22.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v22.2, Version=22.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Utils.v22.2.UI, Version=22.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Xpo.v22.2, Version=22.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraBars.v22.2, Version=22.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v22.2, Version=22.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v22.2, Version=22.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraGauges.v22.2.Core, Version=22.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPrinting.v22.2, Version=22.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraReports.v22.2, Version=22.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraReports.v22.2.Extensions, Version=22.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="Infragistics4.Win.v22.2, Version=22.2.20222.16, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files (x86)\Infragistics\2022.2\Windows Forms\CLR4.0\Bin\Infragistics4.Win.v22.2.dll</HintPath>
+    </Reference>
+    <Reference Include="Infragistics4.Win.UltraWinTabControl.v22.2, Version=22.2.20222.16, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files (x86)\Infragistics\2022.2\Windows Forms\CLR4.0\Bin\Infragistics4.Win.UltraWinTabControl.v22.2.dll</HintPath>
+    </Reference>
+    <Reference Include="Infragistics4.Win.UltraWinLiveTileView.v22.2, Version=22.2.20222.16, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files (x86)\Infragistics\2022.2\Windows Forms\CLR4.0\Bin\Infragistics4.Win.UltraWinLiveTileView.v22.2.dll</HintPath>
+    </Reference>
+    <Reference Include="Infragistics4.Win.UltraWinGrid.v22.2, Version=22.2.20222.16, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files (x86)\Infragistics\2022.2\Windows Forms\CLR4.0\Bin\Infragistics4.Win.UltraWinGrid.v22.2.dll</HintPath>
+    </Reference>
+    <Reference Include="Infragistics4.Win.UltraWinEditors.v22.2, Version=22.2.20222.16, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files (x86)\Infragistics\2022.2\Windows Forms\CLR4.0\Bin\Infragistics4.Win.UltraWinEditors.v22.2.dll</HintPath>
+    </Reference>
+    <Reference Include="Infragistics4.Win.Misc.v22.2, Version=22.2.20222.16, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files (x86)\Infragistics\2022.2\Windows Forms\CLR4.0\Bin\Infragistics4.Win.Misc.v22.2.dll</HintPath>
+    </Reference>
+    <Reference Include="Infragistics4.Shared.v22.2, Version=22.2.20222.16, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files (x86)\Infragistics\2022.2\Windows Forms\CLR4.0\Bin\Infragistics4.Shared.v22.2.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Drawing.v22.2, Version=22.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Printing.v22.2.Core, Version=22.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Data.v22.2, Version=22.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Buffers.4.5.1\lib\net461\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.Entity" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Memory.4.5.4\lib\net461\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.Numerics.Vectors.4.5.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=4.0.4.1, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.Runtime.CompilerServices.Unsafe.4.5.3\lib\net461\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Runtime.Serialization.Formatters.Soap" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="UIAutomationProvider" />
+    <Reference Include="UIAutomationTypes" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ClassesLogin\ClsLogin.vb" />
+    <Compile Include="ClassesSQL\ClsArtigos.vb" />
+    <Compile Include="ClassesSQL\ClsCategorias.vb" />
+    <Compile Include="ClassesSQL\ClsDoc.vb" />
+    <Compile Include="ClassesSQL\ClsEmpresas.vb" />
+    <Compile Include="ClassesSQL\ClsEntidades.vb" />
+    <Compile Include="ClassesSQL\ClsIVA.vb" />
+    <Compile Include="ClassesSQL\ClsLinhas.vb" />
+    <Compile Include="ClassesSQL\ClsPaises.vb" />
+    <Compile Include="ClassesSQL\ClsSeries.vb" />
+    <Compile Include="ClassesSQL\ClsSub_Categorias.vb" />
+    <Compile Include="ClassesSQL\ClsTipos_Doc.vb" />
+    <Compile Include="ClassesSQL\ClsTipos_Pagamento.vb" />
+    <Compile Include="ClassesSQL\ClsUtils.vb" />
+    <Compile Include="Forms\FrmDialog.Designer.vb">
+      <DependentUpon>FrmDialog.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmDialog.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmLogin.Designer.vb">
+      <DependentUpon>frmLogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmLoginProgressBar.Designer.vb">
+      <DependentUpon>frmLoginProgressBar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmLoginProgressBar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmReport.Designer.vb">
+      <DependentUpon>frmReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmTransparente.Designer.vb">
+      <DependentUpon>FrmTransparente.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmTransparente.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmUI.Designer.vb">
+      <DependentUpon>frmUI.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmUI.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Reports\xrFat.Designer.vb">
+      <DependentUpon>xrFat.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\xrFat.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\xrQI.Designer.vb">
+      <DependentUpon>xrQI.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\xrQI.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="UserControls\Login\ucButton.Designer.vb">
+      <DependentUpon>ucButton.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\Login\ucButton.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\Login\ucTextBox.Designer.vb">
+      <DependentUpon>ucTextBox.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\Login\ucTextBox.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\UI\UC_DetalhesArtigo.Designer.vb">
+      <DependentUpon>UC_DetalhesArtigo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\UI\UC_DetalhesArtigo.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\UI\UC_GetArtigo.Designer.vb">
+      <DependentUpon>UC_GetArtigo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\UI\UC_GetArtigo.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\UI\UC_GetCategorias.Designer.vb">
+      <DependentUpon>UC_GetCategorias.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\UI\UC_GetCategorias.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\UI\UC_ViewArt.Designer.vb">
+      <DependentUpon>UC_ViewArt.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\UI\UC_ViewArt.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\UI\UC_ViewCat.Designer.vb">
+      <DependentUpon>UC_ViewCat.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\UI\UC_ViewCat.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Forms\FrmDialog.resx">
+      <DependentUpon>FrmDialog.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmLogin.resx">
+      <DependentUpon>frmLogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmLoginProgressBar.resx">
+      <DependentUpon>frmLoginProgressBar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmReport.resx">
+      <DependentUpon>frmReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmTransparente.resx">
+      <DependentUpon>FrmTransparente.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmUI.resx">
+      <DependentUpon>frmUI.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\licenses.licx" />
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\xrFat.resx">
+      <DependentUpon>xrFat.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\xrQI.resx">
+      <DependentUpon>xrQI.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\Login\ucButton.resx">
+      <DependentUpon>ucButton.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\Login\ucTextBox.resx">
+      <DependentUpon>ucTextBox.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\UI\UC_DetalhesArtigo.resx">
+      <DependentUpon>UC_DetalhesArtigo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\UI\UC_GetArtigo.resx">
+      <DependentUpon>UC_GetArtigo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\UI\UC_GetCategorias.resx">
+      <DependentUpon>UC_GetCategorias.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\UI\UC_ViewArt.resx">
+      <DependentUpon>UC_ViewArt.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\UI\UC_ViewCat.resx">
+      <DependentUpon>UC_ViewCat.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClsArtigos.datasource" />
+    <None Include="ClsLinhas.datasource" />
+    <None Include="ClsQI.datasource" />
+    <None Include="ClsTipos_Doc.datasource" />
+    <None Include="ClsTipos_Pagamento.datasource" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+    <None Include="Resources\fonts\Sono-Bold.ttf" />
+    <None Include="Resources\fonts\Sono-ExtraBold.ttf" />
+    <None Include="Resources\fonts\Sono-ExtraLight.ttf" />
+    <None Include="Resources\fonts\Sono-Light.ttf" />
+    <None Include="Resources\fonts\Sono-Medium.ttf" />
+    <None Include="Resources\fonts\Sono-Regular.ttf" />
+    <None Include="Resources\fonts\Sono-SemiBold.ttf" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Content Include="Resources\GIF\Loading.gif" />
+    <Content Include="Resources\Images\FrmUI\ArrowUpIcon.png" />
+    <Content Include="Resources\Images\FrmUI\BackButton.png" />
+    <Content Include="Resources\Images\FrmUI\BackgroundArtigo.png" />
+    <Content Include="Resources\Images\FrmUI\LogoBlack.png" />
+    <Content Include="Resources\Images\FrmUI\LogoWhite.png" />
+    <Content Include="Resources\Images\FrmUI\NoImage.jpeg" />
+    <Content Include="Resources\Images\FrmUI\PanelBackground.png" />
+    <Content Include="Resources\Images\FrmUI\PlusIcon.png" />
+    <Content Include="Resources\Images\FrmUI\ProductDescription.png" />
+    <Content Include="Resources\Images\FrmUI\RemoverFiltro.png" />
+    <Content Include="Resources\Images\FrmUI\TextBoxBackG.png" />
+    <Content Include="Resources\Images\FrmUI\TextBoxBackG2.png" />
+    <Content Include="Resources\Images\FrmUI\TextBoxBackG3.png" />
+    <Content Include="Resources\Images\FrmUI\TextBox_Search.png" />
+    <None Include="Resources\Images\FrmUI\TxtEmailBox.png" />
+    <None Include="Resources\Images\FrmUI\TxtNIF_TELEFONE.png" />
+    <Content Include="Resources\Images\FrmUI\UC_Button.png" />
+    <Content Include="Resources\Images\Login\Background.png" />
+    <Content Include="Resources\Images\Login\ButtonSubmit.png" />
+    <Content Include="Resources\Images\Login\ButtonSubmitClick.png" />
+    <Content Include="Resources\Images\Login\ButtonSubmitHover.png" />
+    <Content Include="Resources\Images\Login\Close.png" />
+    <Content Include="Resources\Images\Login\Maximize.png" />
+    <Content Include="Resources\Images\Login\Minimize.png" />
+    <Content Include="Resources\Images\Login\TextBoxBG.png" />
+    <Content Include="Resources\Images\Login\TextBoxBGSelected.png" />
+    <Content Include="Resources\Images\Logo\Logo1.ico" />
+    <Content Include="Resources\Images\Logo\Logo1.png" />
+    <Content Include="Resources\Logo\LogoCircle.ico" />
+    <Content Include="Resources\Logo\LogoCircle.png" />
+    <Content Include="Resources\Logo\LogoRoundedRect.png" />
+    <Content Include="Resources\UC\ArrowDownIcon.png" />
+    <Content Include="Resources\UC\LineIcon.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>
