@@ -12,6 +12,7 @@ If you are using our software for your needs, please credit us or change the com
 !!THE WHOLE PROJECT WAS MADE IN PORTUGUESE! DON'T ASK ME TO TRANSLATE OR MODIFY IT!!
 
 Made by:
+
 https://www.instagram.com/75andre40/
 
 https://www.instagram.com/edu_c013/
