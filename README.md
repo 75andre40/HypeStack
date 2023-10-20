@@ -18,8 +18,10 @@ If you are using our software for your needs, please credit us or change the com
 Made by:
 
 https://www.instagram.com/75andre40/
+https://github.com/75andre40
 
 https://www.instagram.com/edu_c013/
+https://github.com/EduC013
 
 
 Feel free to donate with this link! In trade, I give you a 🍪 :)
