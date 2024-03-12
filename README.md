@@ -9,7 +9,7 @@ The FRONT-OFFICE is for invoicing while the BACK-OFFICE is for company managemen
 
 
 Note that this is not a complete software, and so, there are many bugs in both programs and unfinished features that we planned.
-If you are using our software for your needs, please credit us or change the company logo/name.
+If you are using our software for your needs, please credit us.
 
 
 !!THE WHOLE PROJECT WAS MADE IN PORTUGUESE! DON'T ASK ME TO TRANSLATE OR MODIFY IT!!
