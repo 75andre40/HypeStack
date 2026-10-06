@@ -97,7 +97,7 @@ Developed by:
 
 ## 🍪 Here's a cookie
 
-If you somehow found this old college project useful, feel free to contribute on any ideas.
+If you somehow found this old college project useful, feel free to contribute with any ideas.
 
 **In exchange, you get a 🍪.**
 
