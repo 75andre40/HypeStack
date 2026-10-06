@@ -1,52 +1,120 @@
-# HypeStack - Company management and invoicing software
+# HypeStack — Company Management & Invoicing Software
 
-## Introduction
-This repository is a project I made with a collegue. We made this in 3 months and points to company management and invoicing.
-There is two separated software, named FRONT-OFFICE & BACK-OFFICE.
+## 📖 Introduction
 
+**HypeStack** is a company management and invoicing software project developed as part of our final college project.
 
-The FRONT-OFFICE is for invoicing while the BACK-OFFICE is for company management.
+The project was developed by two students over a **3-month deadline** and consists of two separate applications:
 
+- **FRONT-OFFICE** — focused on invoicing and billing.
+- **BACK-OFFICE** — focused on company and business management.
 
-Note that this is not a complete software, and so, there are many bugs in both programs and unfinished features that we planned.
-If you are using our software for your needs, please credit us.
+The software is primarily written in **Portuguese (Portugal)**.
 
+> ⚠️ **Project Status**
+>
+> This project was developed as a college final project and is **not intended to be considered production-ready software**.
+>
+> There are known bugs, incomplete features, and several ideas that we planned but did not have enough time to implement within the project deadline.
+>
+> The repository contains the final version submitted for the project, and **no further development is planned**.
 
-!!THE WHOLE PROJECT WAS MADE IN PORTUGUESE! DON'T ASK ME TO TRANSLATE OR MODIFY IT!!
+If you use any part of this project for your own purposes, please give credit to the original authors. ❤️
 
+---
 
-Made by:
+## 🛠️ Technologies
 
-https://www.instagram.com/75andre40/
-https://github.com/75andre40
+### Applications
 
-https://www.instagram.com/edu_c013/
-https://github.com/EduC013
+- **Visual Studio**
+- **VB.NET**
+- **Infragistics**
+- **DevExpress**
 
+### Database
 
-Feel free to donate with this link! In trade, I give you a 🍪 :)
+- **Microsoft SQL Server**
 
-https://www.paypal.com/donate/buttons/manage/HJ5QZ5JNFGKCS
+---
 
-## How to use
-Both programs are made in Visual Studio, VB.NET with Infragistics and DevExpress extensions.
-SQL Part is made in Microsoft SQL Server.
+## 🚀 How to Run
 
+### 1. Set up the database
 
-1- Execute the SQL file onto your SQL Server. (It can be localhost or network)
+Execute the provided SQL script on your **Microsoft SQL Server** instance.
 
-2- Open both programs in VS, right click on the project name (PAP) and go to properties.
+The database can be hosted either:
 
-3- Locate the "Settings" tab, and change the connection string according to your sql server.
+- Locally
+- On a network SQL Server
 
-(I left the default settings for the ones who just installed the sql server for dev purposes.)
+The default configuration is intended to work with a standard local SQL Server installation used for development purposes.
 
+---
 
-(For those who want to config their images folders, proceed with the following steps)
+### 2. Open the projects
 
-4- Inside the project in VS, go to the folder named "ClassesSQL" and edit the file "ClsUtils".
+Open both applications in **Visual Studio**.
 
-5- Edit the public properties according to your needs.
+For each project:
 
+1. Right-click the project named `PAP`.
+2. Select **Properties**.
+3. Open the **Settings** tab.
+4. Locate the database connection string.
+5. Update it to match your SQL Server configuration.
 
-I will not update it since it was made for my school final project.
+---
+
+### 3. Configure image directories *(optional)*
+
+If you need to customize where application images are stored:
+
+1. Open the project in Visual Studio.
+2. Navigate to the `ClassesSQL` folder.
+3. Open `ClsUtils`.
+4. Modify the relevant public properties to match your desired paths.
+
+---
+
+## 🌍 Language
+
+The application was developed primarily in:
+
+**Portuguese (Portugal)** 🇵🇹
+
+---
+
+## 👨‍💻 Authors
+
+Developed by:
+
+- [75andre40](https://github.com/75andre40)
+- [EduC013](https://github.com/EduC013)
+
+---
+
+## 🍪 Support the Project
+
+If you somehow found this old college project useful and want to support us, you can donate through PayPal.
+
+**In exchange, you get a 🍪.**
+
+That's the deal. No refunds on cookies. 🍪
+
+[☕ Donate via PayPal](https://www.paypal.com/donate/buttons/manage/HJ5QZ5JNFGKCS)
+
+---
+
+## 📌 Disclaimer
+
+This repository represents the **final version of a college project** developed under a limited 3-month deadline.
+
+It is provided primarily for **educational and archival purposes**. It may contain bugs, incomplete functionality, outdated dependencies, or implementation decisions that would not necessarily be appropriate for a production environment.
+
+Use it at your own discretion.
+
+---
+
+**Thanks for checking out HypeStack!** 🚀
