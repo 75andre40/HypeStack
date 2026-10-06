@@ -95,15 +95,13 @@ Developed by:
 
 ---
 
-## 🍪 Support the Project
+## 🍪 Here's a cookie
 
-If you somehow found this old college project useful and want to support us, you can donate through PayPal.
+If you somehow found this old college project useful, feel free to contribute on any ideas.
 
 **In exchange, you get a 🍪.**
 
 That's the deal. No refunds on cookies. 🍪
-
-[☕ Donate via PayPal](https://www.paypal.com/donate/buttons/manage/HJ5QZ5JNFGKCS)
 
 ---
 
